@@ -1,0 +1,2 @@
+oAuth key    qr2kn2NxC693ox3IGice7gmarbt7og1oKS2xFi64
+oAuth secret buC384NSHiociZo2QyesfZrA77umacUp1QTY6y1f
