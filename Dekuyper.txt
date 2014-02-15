@@ -1,0 +1,103 @@
+List(750 ml);0080686360407;080686360407;Sloe Gin;Alcoholic Beverages;f091ebd7-55a2-438a-b701-2148f261bbf8;Dekuyper
+List(1 lt);0080686360209;080686360209;Sloe Gin;Alcoholic Beverages;0d7f8c4e-a85a-491b-b936-8bee2beff017;Dekuyper
+List(1 lt);0080686319207;080686319207;Dekuyper Buttershots Butterscotch Schnapps Liqueur 1L;Alcoholic Beverages;6651afff-4fde-414f-9b46-5306d0979009;Dekuyper
+List(750 ml);0080686365433;080686365433;Schnapps Liqueur;Alcoholic Beverages;9a7c9027-6312-46ff-ad10-2cfa6522acbb;Dekuyper
+List(750 ml);0080686394402;080686394402;Pucker Schnapps Sweet & Sour Cherry;Alcoholic Beverages;e6bfe77e-29bd-4199-abd9-3a7a386dad61;Dekuyper
+List(1 lt);0080686381204;080686381204;Triple Sec;Alcoholic Beverages;eb26b4df-b19b-4a49-85d2-e8fe2e0d88de;Dekuyper
+List(1.75 lt);0080686395126;080686395126;Pucker Sour Apple;Alcoholic Beverages;4592eb8b-6336-406e-bdbc-af795607c49f;Dekuyper
+List(1 lt);0080686319207;080686319207;Dekuyper Buttershots Butterscotch Schnapps Liqueur 1L;Alcoholic Beverages;6651afff-4fde-414f-9b46-5306d0979009;Dekuyper
+List(750 ml);0080686392408;080686392408;Speedy Refill Hair Color Kit Medium Brown;Alcoholic Beverages;f6fb0f7e-a727-4d77-a585-acab2ce7c9c4;Dekuyper
+List(1 lt);0080686310204;080686310204;Amaretto;Alcoholic Beverages;265d1bf8-10f1-431b-a2e3-33e60b1b4874;Dekuyper
+List(750 ml);0080686395409;080686395409;Sour Apple Pucker;Alcoholic Beverages;951597c2-f9bb-4dff-a19b-2d94b63c8ddc;Dekuyper
+List(1 lt);0080686387206;080686387206;Speedy Refill Hair Color Kit Deep Chestnut;Alcoholic Beverages;903495e8-fbfe-403e-9c43-67b87a22c4a8;Dekuyper
+List(1 lt);0080686395201;080686395201;Dekuyper Sour Apple Pucker Schnapps 1L;Alcoholic Beverages;66895c1d-5284-4949-bc84-c57bad48a5f5;Dekuyper
+List(750 ml);0080686365402;080686365402;Peachtree;Alcoholic Beverages;45895b6b-5899-44a7-be79-48091782afc3;Dekuyper
+List(750 ml);0080686356400;080686356400;Razmatazz;Alcoholic Beverages;c3e3947f-193b-4eff-a60c-4c10373c48b3;Dekuyper
+List(750 ml);0080686396406;080686396406;Watermelon Pucker;Alcoholic Beverages;48e3cde2-45b5-4593-b498-dedd5324bb28;Dekuyper
+List(750 ml);0080686369400;080686369400;Speedy Hair Color Kit Medium Brown;Alcoholic Beverages;f04f2cf2-739e-4e46-ac59-2b038198144b;Dekuyper
+List(750 ml);0080686393405;080686393405;Grape Pucker;Alcoholic Beverages;56e27425-d619-48d1-a195-ec204e5d7c58;Dekuyper
+List(1.76 oz);0080686347200;080686347200;Morinaga Hi-Chew Candy Melon;Alcoholic Beverages;9dfda50e-6141-4c7c-89a7-cef8c9fe28d4;Dekuyper
+List(750 ml);0080686373407;080686373407;Hot Damn;Alcoholic Beverages;c9406bd3-cee1-49f7-ae2c-bbd9869b4428;Dekuyper
+List(750 ml);0080686320401;080686320401;Creme De Cocoa;Alcoholic Beverages;7b202158-fb43-483c-a4ea-0cb9fc3650b4;Dekuyper
+List(1.75 lt);0080686373124;080686373124;Schnapps;Alcoholic Beverages;5d30f951-e55f-4609-9021-878e77836131;Dekuyper
+List(1 lt);0080686184201;080686184201;Schnapps;Alcoholic Beverages;4dda3616-eed1-4a02-9be4-d368d007ab4b;Dekuyper
+List(750 ml);0080686610212;080686610212;Red Headed Shots;Alcoholic Beverages;acd423d2-1d51-4302-b3e7-fc40efefef18;Dekuyper
+List(1 lt);0080686340201;080686340201;Schnapps;Alcoholic Beverages;7ef39d9e-4565-485e-bf86-3b7ca65a7f54;Dekuyper
+List(750 ml);0080686341406;080686341406;Schnapps;Alcoholic Beverages;21c4f899-0171-4304-8518-e8229c0ad5a8;Dekuyper
+List(750 ml);0080686365433;080686365433;Schnapps Liqueur;Alcoholic Beverages;9a7c9027-6312-46ff-ad10-2cfa6522acbb;Dekuyper
+List(1.75 lt);0080686315124;080686315124;Brandy;Alcoholic Beverages;627d0140-641c-47c2-8ff3-a5fcdb00e4ea;Dekuyper
+List(1.75 lt);0080686322122;080686322122;Schnapps;Alcoholic Beverages;0950cc1c-e674-4af2-b7a6-45d9f802f9e1;Dekuyper
+List(750 ml);0080686362401;080686362401;Schnapps;Alcoholic Beverages;fb7d7b99-f836-466d-b5b0-6a6b5da501e0;Dekuyper
+List(1.75 lt);0080686363125;080686363125;Triple Sec;Alcoholic Beverages;54a71835-38df-413b-8bbb-18783a1f2e4a;Dekuyper
+List(1 lt);0080686393207;080686393207;Schnapps;Alcoholic Beverages;962dfdbb-9f56-47ad-9c44-94baccc44885;Dekuyper
+List(375 ml);0080686363620;080686363620;Triplesec;Alcoholic Beverages;e76da017-b6b7-4769-bdb8-5ce6fe511d70;Dekuyper
+List(1 lt);0080686345206;080686345206;Schnapps;Alcoholic Beverages;0e85d673-bafa-4869-ac59-14b87ab5e8f0;Dekuyper
+List(1 lt);0080686335207;080686335207;Creme De Cassis;Alcoholic Beverages;62919801-ab0e-4c77-a6be-b4fa1f6abdca;Dekuyper
+List(750 ml);0080686316404;080686316404;Blue Curacao;Alcoholic Beverages;3666bdb6-80e9-419c-bc89-dae6fe616721;Dekuyper
+List(1 lt);0080686610083;080686610083;Shots Washington Apple;Alcoholic Beverages;2e56beed-b0e0-4e57-a2fe-784155a5aef5;Dekuyper
+List(750 ml);0080686322405;080686322405;Schnapps;Alcoholic Beverages;42d1a6e1-94d0-43bc-85e9-bebaeb55dbe7;Dekuyper
+List(1 lt);0080686333203;080686333203;Creme De Banana;Alcoholic Beverages;616c4daa-71e6-465c-a000-367fec1bc180;Dekuyper
+List(750 ml);0080686391401;080686391401;Schnapps;Alcoholic Beverages;368a3243-b7b9-49c4-82da-eb0a3bf4bcf3;Dekuyper
+List(1 lt);0080686610038;080686610038;Shots Kamikaze;Alcoholic Beverages;361eb018-6887-4682-b0da-3fdd68591746;Dekuyper
+List(750 ml);0080686360407;080686360407;Sloe Gin;Alcoholic Beverages;f091ebd7-55a2-438a-b701-2148f261bbf8;Dekuyper
+List(1 lt);0080686338208;080686338208;Brandy;Alcoholic Beverages;a271e915-1204-412d-a7eb-ee81eeffdc3c;Dekuyper
+List(1.75 lt);0080686353126;080686353126;Schnapps;Alcoholic Beverages;6dd28bb5-486c-43eb-99bd-ff72676b0088;Dekuyper
+List(750 ml);0080686347408;080686347408;Schnapps;Alcoholic Beverages;657cfa97-84a0-4fd0-9440-8fcda3904898;Dekuyper
+List(1 lt);0080686610304;080686610304;Shots Sex On The Beach;Alcoholic Beverages;3f3001f9-4b0b-4067-9862-9593719a3315;Dekuyper
+List(1 lt);0080686354208;080686354208;Schnapps;Alcoholic Beverages;7f517b14-deaa-4bcb-92be-640d70d2e3c2;Dekuyper
+List(750 ml);0080686381402;080686381402;Triple Sec;Alcoholic Beverages;b8625e33-05a1-4b74-97bb-f67e4691e939;Dekuyper
+List(750 ml);0080686310402;080686310402;Amaretto;Alcoholic Beverages;6f3c54a9-f8a9-4ee6-a8f3-922d4747fc37;Dekuyper
+List(1 lt);0080686610250;080686610250;Shots Lemon Drop;Alcoholic Beverages;0417c168-8545-49cb-b40b-1c107f05641e;Dekuyper
+List(1.75 lt);0080686329121;080686329121;Brandy;Alcoholic Beverages;3cb02555-cb95-4cf2-a9fc-d349c96f8673;Dekuyper
+List(100 ml);0080686374404;080686374404;Hot Damn;Alcoholic Beverages;600ae3a5-f6ec-45a7-8278-18f6331347ce;Dekuyper
+List(1 lt);0080686368205;080686368205;Creme De Menthe;Alcoholic Beverages;16e0b231-946c-4fd8-8c4f-79469c64ca14;Dekuyper
+List(1 lt);0080686348207;080686348207;Curacao;Alcoholic Beverages;1c28d510-afc6-4754-8517-7ff3f061088f;Dekuyper
+List(1 lt);0080686361206;080686361206;Schnapps;Alcoholic Beverages;f975b90d-6616-4d85-8d8b-cf479009ba55;Dekuyper
+List(1.75 lt);0080686319122;080686319122;Schnapps;Alcoholic Beverages;efbca73a-d5ff-4508-9652-6d1fb0ea2770;Dekuyper
+List(750 ml);0080686333401;080686333401;Creme De Banana;Alcoholic Beverages;53176f9e-2ac0-4c29-9a0a-ac75961ac2c7;Dekuyper
+List(750 ml);0080686335405;080686335405;Creme De Cassis;Alcoholic Beverages;6eb555a3-8088-43f7-ab14-a3dd03cdaa7a;Dekuyper
+List(1 lt);0080686391203;080686391203;Schnapps;Alcoholic Beverages;00592087-37d5-4b48-993a-8a810a54c85b;Dekuyper
+List(1 lt);0080686392200;080686392200;Schnapps;Alcoholic Beverages;fb64abb9-f862-4f1f-91d0-f175d421616e;Dekuyper
+List(1 lt);0080686322207;080686322207;Schnapps;Alcoholic Beverages;996f6550-f4d2-4d69-9192-61d57a46d03a;Dekuyper
+List(750 ml);0080686319405;080686319405;Buttershots;Alcoholic Beverages;c7566757-bdbb-4f6c-8ffc-04e8a5551529;Dekuyper
+List(1 lt);0080686329206;080686329206;Brandy;Alcoholic Beverages;54a48245-443e-4a2c-b029-25e8cda26603;Dekuyper
+List(1 lt);0080686321200;080686321200;Creme De Cocoa;Alcoholic Beverages;2ccaf1a5-81fc-487c-9a2c-6d7c44b9d883;Dekuyper
+List(750 ml);0080686368403;080686368403;Creme De Menthe;Alcoholic Beverages;2bed23a3-fb92-4089-b7a1-123e3ac92508;Dekuyper
+List(1 lt);0080686349204;080686349204;Brandy;Alcoholic Beverages;5ea9f8c2-2797-43dc-a136-ba1780fddb48;Dekuyper
+List(750 ml);0080686610076;080686610076;Washington Apple Shots;Alcoholic Beverages;28a38194-26a3-44b1-8f62-88338a9c73dc;Dekuyper
+List(750 ml);0080686345404;080686345404;Schnapps;Alcoholic Beverages;51deb724-8036-47ab-86e8-03d0a549ceba;Dekuyper
+List(1 lt);0080686610120;080686610120;Shots Alabama Slammer;Alcoholic Beverages;2536e613-484b-4c53-a288-4dc3f7d062c8;Dekuyper
+List(750 ml);0080686367406;080686367406;Schnapps;Alcoholic Beverages;1a3ce3e7-528d-4c7a-894a-ef6bc5b77a0e;Dekuyper
+List(1 lt);0080686314202;080686314202;Brandy;Alcoholic Beverages;3a4fe854-2269-4cb5-aefd-9444d8453886;Dekuyper
+List(750 ml);0080686349402;080686349402;Brandy;Alcoholic Beverages;bbd08655-2a61-4abb-acb5-d551ddc31216;Dekuyper
+List(750 ml);0080686309406;080686309406;Schnapps;Alcoholic Beverages;26898bcf-0b4a-4315-b79f-b059d99b5840;Dekuyper
+List(1 lt);0080686356202;080686356202;Schnapps;Alcoholic Beverages;ed43b32e-528a-4fcf-aabe-56037ef4517d;Dekuyper
+List(750 ml);0080686184409;080686184409;Schnapps;Alcoholic Beverages;e2eba677-2fef-4e93-add9-56eedb570080;Dekuyper
+List(750 ml);0080686340409;080686340409;Schnapps;Alcoholic Beverages;40bc49e6-c70a-4420-b17f-2a746c7b0647;Dekuyper
+List(1 lt);0080686339205;080686339205;Creme De Menthe;Alcoholic Beverages;7bedd5da-1dbb-4e9f-b63f-cdfb15c37f47;Dekuyper
+List(750 ml);0080686610021;080686610021;Kamikaze Shots;Alcoholic Beverages;a31292ae-55eb-471b-8931-cfb3b5368612;Dekuyper
+List(750 ml);0080686610113;080686610113;Alabama Slammer Shots;Alcoholic Beverages;1ad1c072-2614-4756-a016-726e7100ebdc;Dekuyper
+List(750 ml);0080686363408;080686363408;Triple Sec;Alcoholic Beverages;4cf5a253-39fd-497f-ad6e-11fb1b6ee093;Dekuyper
+List(1 lt);0080686315209;080686315209;Brandy;Alcoholic Beverages;4d4edcfd-f4ed-4215-9c9a-6ff26c92b7e5;Dekuyper
+List(1 lt);0080686397205;080686397205;Schnapps;Alcoholic Beverages;6375678b-5ca4-4015-b7e5-31176cfdba19;Dekuyper
+List(750 ml);0080686395430;080686395430;Pucker;Alcoholic Beverages;10a310cc-32a0-4198-9060-be8cfe8f465b;Dekuyper
+List(1 lt);0080686610229;080686610229;Shots Red Headed;Alcoholic Beverages;bf69e83a-b2cd-4f5b-bce9-100e8078ca94;Dekuyper
+List(1 lt);0080686360209;080686360209;Sloe Gin;Alcoholic Beverages;0d7f8c4e-a85a-491b-b936-8bee2beff017;Dekuyper
+List(1 lt);0080686396208;080686396208;Schnapps;Alcoholic Beverages;abd3af86-1375-4314-87b3-e3d928171d43;Dekuyper
+List(750 ml);0080686339403;080686339403;Creme De Menthe;Alcoholic Beverages;3afcffd6-493c-4c37-9abb-48ee0ae31992;Dekuyper
+List(750 ml);0080686183402;080686183402;Schnapps;Alcoholic Beverages;14a76064-ac3b-4e02-86fe-e12115084b2d;Dekuyper
+List(375 ml);0080686320623;080686320623;Creme De Cocoa;Alcoholic Beverages;84e75f16-8be1-4649-9baa-6a3b8e4297d4;Dekuyper
+List(1 lt);0080686342205;080686342205;Hot Damn;Alcoholic Beverages;8cd397b5-6b33-48f4-a1d6-aae678513251;Dekuyper
+List(750 ml);0080686321408;080686321408;Creme De Cocoa;Alcoholic Beverages;c5695c61-9180-4942-a131-82a29c0a8620;Dekuyper
+List(1 lt);0080686320203;080686320203;Creme De Cocoa;Alcoholic Beverages;e8fe93e9-eef6-413f-b8ed-b7319d496f03;Dekuyper
+List(1 lt);0080686317203;080686317203;Schnapps;Alcoholic Beverages;b9b09597-64bb-4124-9469-a2e3057b0585;Dekuyper
+List(1 lt);0080686359203;080686359203;Rum Tropical Coconut;Alcoholic Beverages;a7691681-d00a-4e5d-abcf-85686daadba3;Dekuyper
+List(12.68);0080686365600;080686365600;Peachtree Schnapps;Alcoholic Beverages;184caae5-f4f6-4144-8e4d-639c4972d555;Dekuyper
+List(1.75 lt);0080686315124;080686315124;Brandy;Alcoholic Beverages;627d0140-641c-47c2-8ff3-a5fcdb00e4ea;Dekuyper
+List(1 lt);0080686338208;080686338208;Brandy;Alcoholic Beverages;a271e915-1204-412d-a7eb-ee81eeffdc3c;Dekuyper
+List(1.75 lt);0080686329121;080686329121;Brandy;Alcoholic Beverages;3cb02555-cb95-4cf2-a9fc-d349c96f8673;Dekuyper
+List(1 lt);0080686329206;080686329206;Brandy;Alcoholic Beverages;54a48245-443e-4a2c-b029-25e8cda26603;Dekuyper
+List(1 lt);0080686349204;080686349204;Brandy;Alcoholic Beverages;5ea9f8c2-2797-43dc-a136-ba1780fddb48;Dekuyper
+List(1 lt);0080686314202;080686314202;Brandy;Alcoholic Beverages;3a4fe854-2269-4cb5-aefd-9444d8453886;Dekuyper
+List(750 ml);0080686349402;080686349402;Brandy;Alcoholic Beverages;bbd08655-2a61-4abb-acb5-d551ddc31216;Dekuyper
+List(1 lt);0080686315209;080686315209;Brandy;Alcoholic Beverages;4d4edcfd-f4ed-4215-9c9a-6ff26c92b7e5;Dekuyper

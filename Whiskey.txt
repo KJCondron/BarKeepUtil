@@ -1,0 +1,149 @@
+List(12.68);0080686821601;080686821601;Whiskey;Alcoholic Beverages;bf48eabe-6535-4b79-be2d-2b2beb8cb3e4;Canadian Club
+List(6.76);0087000007277;087000007277;Whiskey;Alcoholic Beverages;b59da78e-e81f-4245-ac8d-910a37abcaed;Crown Royal
+List(1 lt);0087000007369;087000007369;Whiskey;Alcoholic Beverages;181f1d93-1cc3-445a-a536-0e09c75e8bd4;Seagram's
+List(750 ml);0088004021344;088004021344;Whiskey;Alcoholic Beverages;7e252124-afde-4239-b4a3-143324183d77;Eagle Rare
+List(750 ml);0088004000356;088004000356;Whiskey;Alcoholic Beverages;4117c648-b57b-41ad-863b-5dadd9374a53;Rich & Rare
+List(12.68);0080432400371;080432400371;Whiskey;Alcoholic Beverages;11303390-d121-4025-bc55-837145c466fd;Chivas Regal
+List(750 ml);0080686001430;080686001430;Whiskey;Alcoholic Beverages;d5d96c00-ed96-4a5d-bf61-bcf881ce0529;Jim Beam
+List(750 ml);0087000003385;087000003385;Whiskey;Alcoholic Beverages;86456208-4343-4072-be5d-2d53b2fd8144;Seagram's
+List(750 ml);0082000002543;082000002543;Whiskey;Alcoholic Beverages;753a399a-ead1-49b1-96da-22401e6cab74;Seagram's
+List(1 lt);0087000007246;087000007246;Whiskey;Alcoholic Beverages;e148ce86-9508-4eab-8f50-3c4629ef5a3b;Crown Royal
+List(375 ml);0088004000363;088004000363;Whiskey;Alcoholic Beverages;40960f66-74ac-4b44-bc58-af5329fbf7e0;Rich & Rare
+List(1.75 lt);0088544018019;088544018019;Whiskey;Alcoholic Beverages;bbd3dd89-68a8-41b4-b364-9938d565df4a;Southern Comfort
+List(750 ml);0096749021772;096749021772;Whiskey;Alcoholic Beverages;1541a798-587f-4598-8607-d5e54769a3ff;Evan Williams
+List(750 ml);0080432565179;080432565179;Whiskey;Alcoholic Beverages;13426ce5-c1e6-4175-8503-9b964223241f;Bourbon
+List(750 ml);0080686178019;080686178019;1 Whiskey;Alcoholic Beverages;970d4b5a-4358-4fd2-9340-48177b457c44;Ri) 1 Whiskey
+List(750 ml);0082184090466;082184090466;Tennessee Whiskey;Alcoholic Beverages;2c646c17-4a9e-453a-a9c1-7d4e8d7862ea;Jack Daniel's
+List(750 ml);0085246139431;085246139431;Kentucky Straight Bourbon Whiskey Handmade;Alcoholic Beverages;a1184d04-34c0-46e9-bfd1-00c001c95e21;Maker's Mark
+List(700 ml);0088076163461;088076163461;Islay Single Malt Scotch Whiskey;Alcoholic Beverages;061252d2-f6a0-4ff4-99d4-c760db9fcac7;Caol Ila
+List(750 ml);0080432501177;080432501177;Irish Whiskey;Alcoholic Beverages;16eac923-68f9-4a99-a9e8-6e2023218dc8;Jameson
+List(1.75 lt);0096749021147;096749021147;Whiskey Kentucky Straight Bourbon 1.75 L;Alcoholic Beverages;fcd3c89c-a1cd-4a02-b836-ecfc1f21d12c;Evan Williams
+List(750 ml);0080432500170;080432500170;Irish Whiskey;Alcoholic Beverages;26776944-240f-4b28-a9b3-d88fef7ec661;Jameson
+List(1.75 lt);0088544018910;088544018910;Whiskey 1.75 L;Alcoholic Beverages;74d3a32d-c3c2-4947-b5ee-1cca5327cd19;Southern Comfort
+List(1.75 lt);0087000700758;087000700758;Blended Whiskey Vo Crown 1.75 L;Alcoholic Beverages;46ddb284-6a0a-4ee7-b89a-0199a141693d;Seagram's
+List(1.75 lt);0087000700703;087000700703;Blended Whiskey 7 Crown 1.75 L;Alcoholic Beverages;94dac50a-bb91-4a2b-a35d-e588750c5844;Seagram's
+List(750 ml);0080432400487;080432400487;Scotch Whiskey;Alcoholic Beverages;653f2de8-1533-4c47-831e-a14de7bd64ca;Chivas Regal
+List(1.75 lt);0082184090428;082184090428;Tennessee Whiskey;Alcoholic Beverages;6ae8208b-a450-4edc-a6e2-3d9fd5d4d08c;Jack Daniel's
+List(33.81);0082184090442;082184090442;Tennessee Whiskey;Alcoholic Beverages;82c4bf3b-06cd-4fdb-8503-005d011395f9;Jack Daniel's
+List(750 ml);0080686001409;080686001409;Kentucky Straight Bourbon Whiskey Sour Mash;Alcoholic Beverages;d57a52dd-617c-4194-b888-9f1a11786eff;Jim Beam
+List(750 ml);0096749021345;096749021345;Whiskey Kentucky Straight Bourbon;Alcoholic Beverages;86b5bb95-5903-424a-9df1-7d4c83729f58;Evan Williams
+List(750 ml);0087000007376;087000007376;Vo Canadian Whiskey;Alcoholic Beverages;1986595c-a223-4b9d-899a-ad87c648ff76;Seagram's
+List(1.75 lt);0088076163171;088076163171;Blended Malt Scotch Whiskey;Alcoholic Beverages;64be99c3-fc96-463f-9147-0f75f14af32b;Johnnie Walker
+List(1.75 lt);0088076163164;088076163164;Blended Malt Scotch Whiskey;Alcoholic Beverages;5120342d-814c-4bc4-9138-c9c9f4311bec;Johnnie Walker
+List(750 ml);0080432556177;080432556177;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;dca83a38-1ce8-484f-a70a-c5db6f2bb990;Austin Nichols
+List(750 ml);0080244009236;080244009236;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;21b522aa-25d1-4d48-98ae-83d53c6cedb0;Buffalo Trace
+List(375 ml);0082184090503;082184090503;Tennessee Whiskey;Alcoholic Beverages;ee4b5a84-7a81-40a9-b845-8136ebbb8673;Jack Daniel's
+List(1.75 lt);0080686001102;080686001102;Kentucky Straight Bourbon Whiskey Sour Mash;Alcoholic Beverages;472b637e-9f9f-4f52-b3ba-9a134af3943a;Jim Beam
+List(750 ml);0088076169050;088076169050;Year Single Malt Irish Whiskey;Alcoholic Beverages;a84d0dee-12ad-4a4c-855a-d02196148555;Bushmills
+List(700 ml);0088076163485;088076163485;Scotch Whiskey;Alcoholic Beverages;3d7cf24d-2ec1-45b2-b0a6-a4cf5f0eeff1;Clynelish
+List(1.75 lt);0082184038741;082184038741;Whiskey Rare Tennessee;Alcoholic Beverages;cb311cff-e62a-4181-84f4-b37179219a7e;Gentlemen Jack
+List(1.75 lt);0080432556184;080432556184;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;43718550-4ed0-403a-9aa9-277b2f63dfae;Austin Nichols
+List(1 lt);0088544018941;088544018941;Whiskey Liqueur;Alcoholic Beverages;9fb14b57-b75a-4316-baa7-98106764ece6;Southern Comfort
+List(1.75 lt);0088076169005;088076169005;Irish Whiskey;Alcoholic Beverages;3ebbb610-04a9-4589-bc6d-b50f14ebe654;Bushmills
+List(1.75 lt);0080432500187;080432500187;Irish Whiskey Triple Distilled;Alcoholic Beverages;e2e1daad-9071-406d-ba1e-6d6f4dd365f5;Jameson
+List(750 ml);0080686016403;080686016403;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;ab836467-82d5-4a69-94ff-d3151b01b348;Knob Creek
+List(750 ml);0080686012405;080686012405;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;74f2aa3c-4f52-4af5-a1f6-848a360d0c1f;Basil Hayden's
+List(750 ml);0087000007338;087000007338;American Whiskey;Alcoholic Beverages;e59e8482-fffa-41bc-8ba4-cf43f28a093e;Seagram's 7
+List(750 ml);0080432400395;080432400395;Scotch Whiskey;Alcoholic Beverages;40e8f4ed-2214-4950-b3d6-80513e2113f3;Chivas Regal
+List(200 ml);0082184090527;082184090527;Tennessee Whiskey;Alcoholic Beverages;c912b380-a189-4f92-b3f2-6bf3c1d715a0;Jack Daniel's
+List(750 ml);0088076169029;088076169029;Irish Whiskey;Alcoholic Beverages;22787edc-5cf3-42c8-8dd5-55151d34fac0;Bushmills
+List(750 ml);0082184038727;082184038727;Rare Tennessee Whiskey Gentleman Jack;Alcoholic Beverages;613eaa57-b5c8-46cb-addc-8df2adcb4036;Jack Daniel's
+List(750 ml);0088076169074;088076169074;Year Single Malt Irish Whiskey;Alcoholic Beverages;556f4ba8-d3a5-464e-be58-031f8ee709e1;Bushmills
+List(750 ml);0081128001506;081128001506;Woodford Reserve Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;823e3c77-a7a3-486b-afc2-64b5484adf82;Labrot & Graham
+List(750 ml);0080686001027;080686001027;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;b31650e2-7e1f-4bf2-8236-1426784060c5;Jim Beam
+List(1.75 lt);0082928200212;082928200212;Whiskey Blended Preferred;Alcoholic Beverages;ef9e476d-068c-4b50-a0bd-5efda596d3d6;Fleischman
+List(750 ml);0080686034407;080686034407;Whiskey Kentucky Straight Bourbon Sour Mash;Alcoholic Beverages;81780b11-1d8c-4364-a39c-49c511102565;Jim Beam
+List(750 ml);0082000739555;082000739555;Blended Canadian Whiskey;Alcoholic Beverages;e64c2ebe-1b76-4e46-be53-e2da7146215c;Crown Royal
+List(750 ml);0096749940301;096749940301;Pure Pot Still Irish Whiskey;Alcoholic Beverages;ea9e0fbc-b651-40f5-a694-460bcc2834ef;Tyrconnell
+List(750 ml);0080686015406;080686015406;Bourbon Whiskey;Alcoholic Beverages;db160178-a0c4-4073-9bfb-ba2ac69fad0f;Bakers
+List(1.75 lt);0088076167896;088076167896;Blended Scotch Whiskey;Alcoholic Beverages;e20e9956-cbb9-4869-8071-17d2abe8e91f;Johnnie Walker
+List(1 lt);0082000739890;082000739890;Blended Canadian Whiskey;Alcoholic Beverages;eb26b8dd-918a-4a3d-938b-8616bc7e15de;Crown Royal
+List(1 lt);0082184084045;082184084045;Tennessee Whiskey;Alcoholic Beverages;72079917-74cd-41da-911f-b9fadc776d2b;Gentleman Jack
+List(750 ml);0088352112985;088352112985;Bourbon Whiskey;Alcoholic Beverages;2da05537-fe5e-4e11-97ab-a6ab26d83acd;Old Ezra
+List(750 ml);0083664101399;083664101399;Scotch Whiskey;Alcoholic Beverages;a463e712-5bae-4be1-8452-0cd3c8489f5d;William Grant's
+List(750 ml);0087116080027;087116080027;Cherry Flavored Whiskey;Alcoholic Beverages;c45bc14b-e5ea-49bf-b980-caafedfe7576;Phillips Union
+List(750 ml);0088076171220;088076171220;Blended Scotch Whiskey;Alcoholic Beverages;31f0ba01-5ab8-4d21-89f1-f5c065b8b85e;White Horse
+List(750 ml);0080432530177;080432530177;Irish Whiskey;Alcoholic Beverages;476d0aa2-56e9-43de-834d-1c1db9d6833b;John Power & Son
+List(750 ml);0088004021849;088004021849;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;0649d4d7-4ed1-4492-ad5f-7d709d7171a1;Benchmark
+List(750 ml);0088076226302;088076226302;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;7bec8a61-5466-400e-99ba-e2f1765a58b4;Old Fitzgerald
+List(750 ml);0082928473852;082928473852;Bourbon Whiskey;Alcoholic Beverages;01262c20-d95c-4b87-9a8d-b0eb657fd341;Ten High
+List(750 ml);0087000005525;087000005525;Frontier Whiskey;Alcoholic Beverages;f1bcd8eb-3f98-46de-9ed2-307639eba7e9;Bulleit Bourbon
+List(750 ml);0089319123662;089319123662;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;41ae9888-3ef3-4bd0-9bac-32e854ac4fed;Old Rip Van Winkle
+List(750 ml);0096749750016;096749750016;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;f8769f12-c54d-4480-a9fb-66631592f71a;Evan Williams
+List(750 ml);0082000002208;082000002208;Vodka & Bourbon Whiskey;Alcoholic Beverages;fa6fb59b-5b46-4351-a0e4-c7299c9dd266;Jeremiah Weed
+List(1.75 lt);0080686500124;080686500124;Canadian Whiskey;Alcoholic Beverages;c9ebdfb2-e265-41a6-9a93-44590e086be6;Windsor
+List(1.75 lt);0080660203010;080660203010;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;f32e7b0e-8cd9-4847-bc24-d75179b4b15a;Ten High
+List(1.75 lt);0087000004047;087000004047;Frontier Whiskey;Alcoholic Beverages;c637cc2a-a6bd-40b4-a07d-33b8fb5962e9;Bulleit Bourbon
+List(1 lt);0088076168992;088076168992;Irish Whiskey;Alcoholic Beverages;b7301bfb-a181-4b8b-a888-5beefe420146;Bushmills
+List(750 ml);0087236107659;087236107659;Highland Single Malt Scotch Whiskey;Alcoholic Beverages;04636f80-7883-44ca-926e-22f9e2efee4e;The Macallan
+List(200 ml);0080686001706;080686001706;Bourbon Whiskey;Alcoholic Beverages;a44b2be7-6890-4436-9c9e-82d101c516d3;Jim Beam
+List(1.75 lt);0088076171244;088076171244;Blended Scotch Whiskey;Alcoholic Beverages;3f2c3990-0e6d-4003-bbc1-87cbb9bdfada;White Horse
+List(750 ml);0082184082966;082184082966;Rare Tennessee Whiskey;Alcoholic Beverages;6f9aa9a8-372e-4570-a5d0-5531c23d4570;Jack Daniel's
+List(1 lt);0088076169036;088076169036;Irish Whiskey;Alcoholic Beverages;d6992a14-f2a5-4b27-af8e-e88dbed91fce;Bushmills
+List(750 ml);0080686042402;080686042402;American Blended Whiskey;Alcoholic Beverages;dc59ddb2-58b5-41a5-8849-88fd9ec7932d;Kessler
+List(1.75 lt);0080686042129;080686042129;American Blended Whiskey;Alcoholic Beverages;ef51eb17-4717-4e6b-aca7-9f325f5eb362;Kessler
+List(750 ml);0088076164710;088076164710;Single Malt Scotch Whiskey;Alcoholic Beverages;d334d208-1890-4c57-a927-b44659a470f2;Talisker
+List(6.76);0087000007390;087000007390;Vo Whiskey;Alcoholic Beverages;fe15d7e4-43cc-492e-af67-6bd8c069da5d;Seagram's
+List(750 ml);0088352113920;088352113920;Bourbon Whiskey;Alcoholic Beverages;cd5b41e8-93e7-4321-862f-873bfc80d21e;David Nicholson 1843
+List(1 lt);0081128010560;081128010560;Old Style Kentucky Whiskey;Alcoholic Beverages;aa848687-a8d2-4936-8d2e-82741dca324f;Early Times
+List(1 lt);0082000002215;082000002215;Vodka & Bourbon Whiskey;Alcoholic Beverages;cb08242b-bfe4-4bfd-90bc-a99e8c0cdb97;Jeremiah Weed
+List(1 lt);0088076164796;088076164796;Blended Malt Scotch Whiskey;Alcoholic Beverages;67e82c0e-10ab-405f-9624-3b2a1d2b4900;Johnnie Walker
+List(750 ml);0084593302093;084593302093;Straight Bourbon Whiskey;Alcoholic Beverages;01011fcc-4219-4d65-b6d6-04ff4f7bcab3;Kentucky Pride
+List(12.68);0080686001607;080686001607;Bourbon Whiskey;Alcoholic Beverages;4b2ab5a8-2b50-4951-b379-03c33193d1a3;Jim Beam
+List(750 ml);0088076170858;088076170858;Scotch Whiskey;Alcoholic Beverages;3d85574b-b459-4cf3-950c-aae83fc1310d;The Singleton
+List(12.68);0087000007611;087000007611;Canadian Whiskey;Alcoholic Beverages;4637d6f7-662f-4190-bc8f-32a0e8a20857;Seagram's
+List(12.68);0080432500149;080432500149;Irish Whiskey;Alcoholic Beverages;7b510183-27eb-4f09-ad48-4f6c467739d1;Jameson
+List(750 ml);0089319123730;089319123730;Special Reserve Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;0d153ed0-4c3f-49d0-af60-440c04b61e2e;Van Winkle
+List(750 ml);0088100000021;088100000021;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;46e759e1-fbee-4ae7-b819-146ca3a09a04;Ridgemont Reserve
+List(750 ml);0720815920101;720815920101;Rye Rye Whiskey;Alcoholic Beverages;266c3cef-6476-4eca-bd3d-6d6f2d936d5a;Templeton Rye
+List(750 ml);0080686407409;080686407409;Bourbon Whiskey;Alcoholic Beverages;b0cdfc56-78d9-4607-9fd8-12b0010a652f;Old Grand-dad
+List(750 ml);0085246500101;085246500101;Maker's 46 Kentucky Whiskey Rated 90-95We;Alcoholic Beverages;a26f53cd-d25b-405d-822b-cb8f747ff53e;Maker's 46 Whisky
+List(1 lt);0088544018941;088544018941;Whiskey Liqueur;Alcoholic Beverages;9fb14b57-b75a-4316-baa7-98106764ece6;Southern Comfort
+List(750 ml);0080432565179;080432565179;Whiskey;Alcoholic Beverages;13426ce5-c1e6-4175-8503-9b964223241f;Bourbon
+List(750 ml);0087000005525;087000005525;Frontier Whiskey;Alcoholic Beverages;f1bcd8eb-3f98-46de-9ed2-307639eba7e9;Bulleit Bourbon
+List(1.75 lt);0087000004047;087000004047;Frontier Whiskey;Alcoholic Beverages;c637cc2a-a6bd-40b4-a07d-33b8fb5962e9;Bulleit Bourbon
+List(750 ml);0085246139431;085246139431;Kentucky Straight Bourbon Whiskey Handmade;Alcoholic Beverages;a1184d04-34c0-46e9-bfd1-00c001c95e21;Maker's Mark
+List(1.75 lt);0096749021147;096749021147;Whiskey Kentucky Straight Bourbon 1.75 L;Alcoholic Beverages;fcd3c89c-a1cd-4a02-b836-ecfc1f21d12c;Evan Williams
+List(750 ml);0080686001409;080686001409;Kentucky Straight Bourbon Whiskey Sour Mash;Alcoholic Beverages;d57a52dd-617c-4194-b888-9f1a11786eff;Jim Beam
+List(750 ml);0096749021345;096749021345;Whiskey Kentucky Straight Bourbon;Alcoholic Beverages;86b5bb95-5903-424a-9df1-7d4c83729f58;Evan Williams
+List(750 ml);0080432556177;080432556177;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;dca83a38-1ce8-484f-a70a-c5db6f2bb990;Austin Nichols
+List(750 ml);0080244009236;080244009236;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;21b522aa-25d1-4d48-98ae-83d53c6cedb0;Buffalo Trace
+List(1.75 lt);0080686001102;080686001102;Kentucky Straight Bourbon Whiskey Sour Mash;Alcoholic Beverages;472b637e-9f9f-4f52-b3ba-9a134af3943a;Jim Beam
+List(1.75 lt);0080432556184;080432556184;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;43718550-4ed0-403a-9aa9-277b2f63dfae;Austin Nichols
+List(750 ml);0080686016403;080686016403;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;ab836467-82d5-4a69-94ff-d3151b01b348;Knob Creek
+List(750 ml);0080686012405;080686012405;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;74f2aa3c-4f52-4af5-a1f6-848a360d0c1f;Basil Hayden's
+List(750 ml);0081128001506;081128001506;Woodford Reserve Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;823e3c77-a7a3-486b-afc2-64b5484adf82;Labrot & Graham
+List(750 ml);0080686001027;080686001027;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;b31650e2-7e1f-4bf2-8236-1426784060c5;Jim Beam
+List(750 ml);0080686034407;080686034407;Whiskey Kentucky Straight Bourbon Sour Mash;Alcoholic Beverages;81780b11-1d8c-4364-a39c-49c511102565;Jim Beam
+List(750 ml);0080686015406;080686015406;Bourbon Whiskey;Alcoholic Beverages;db160178-a0c4-4073-9bfb-ba2ac69fad0f;Bakers
+List(750 ml);0088352112985;088352112985;Bourbon Whiskey;Alcoholic Beverages;2da05537-fe5e-4e11-97ab-a6ab26d83acd;Old Ezra
+List(750 ml);0088004021849;088004021849;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;0649d4d7-4ed1-4492-ad5f-7d709d7171a1;Benchmark
+List(750 ml);0088076226302;088076226302;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;7bec8a61-5466-400e-99ba-e2f1765a58b4;Old Fitzgerald
+List(750 ml);0082928473852;082928473852;Bourbon Whiskey;Alcoholic Beverages;01262c20-d95c-4b87-9a8d-b0eb657fd341;Ten High
+List(750 ml);0089319123662;089319123662;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;41ae9888-3ef3-4bd0-9bac-32e854ac4fed;Old Rip Van Winkle
+List(750 ml);0096749750016;096749750016;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;f8769f12-c54d-4480-a9fb-66631592f71a;Evan Williams
+List(750 ml);0082000002208;082000002208;Vodka & Bourbon Whiskey;Alcoholic Beverages;fa6fb59b-5b46-4351-a0e4-c7299c9dd266;Jeremiah Weed
+List(1.75 lt);0080660203010;080660203010;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;f32e7b0e-8cd9-4847-bc24-d75179b4b15a;Ten High
+List(200 ml);0080686001706;080686001706;Bourbon Whiskey;Alcoholic Beverages;a44b2be7-6890-4436-9c9e-82d101c516d3;Jim Beam
+List(750 ml);0088352113920;088352113920;Bourbon Whiskey;Alcoholic Beverages;cd5b41e8-93e7-4321-862f-873bfc80d21e;David Nicholson 1843
+List(1 lt);0082000002215;082000002215;Vodka & Bourbon Whiskey;Alcoholic Beverages;cb08242b-bfe4-4bfd-90bc-a99e8c0cdb97;Jeremiah Weed
+List(750 ml);0084593302093;084593302093;Straight Bourbon Whiskey;Alcoholic Beverages;01011fcc-4219-4d65-b6d6-04ff4f7bcab3;Kentucky Pride
+List(12.68);0080686001607;080686001607;Bourbon Whiskey;Alcoholic Beverages;4b2ab5a8-2b50-4951-b379-03c33193d1a3;Jim Beam
+List(750 ml);0089319123730;089319123730;Special Reserve Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;0d153ed0-4c3f-49d0-af60-440c04b61e2e;Van Winkle
+List(750 ml);0088100000021;088100000021;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;46e759e1-fbee-4ae7-b819-146ca3a09a04;Ridgemont Reserve
+List(750 ml);0080686407409;080686407409;Bourbon Whiskey;Alcoholic Beverages;b0cdfc56-78d9-4607-9fd8-12b0010a652f;Old Grand-dad
+List(375 ml);0088352110936;088352110936;Bourbon Whiskey;Alcoholic Beverages;b383a624-c29d-4f4c-acbd-70ca5e628c1a;Ezra Brooks
+List(1.75 lt);0088076220508;088076220508;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;99ffd60c-afe5-42f6-900d-36d6c3b4aaef;Old Fitzgerald
+List(1.75 lt);0080432555187;080432555187;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;eea0069d-d25e-47a1-983c-086446358780;Austin Nichols
+List(750 ml);0088352125473;088352125473;Bourbon Whiskey;Alcoholic Beverages;19ad79fb-c59e-4f6a-a265-9ce4356f39f1;Rebel Reserve
+List(1.75 lt);0088352110905;088352110905;Bourbon Whiskey;Alcoholic Beverages;9b275392-1a2c-4eaa-af66-7b938928a013;Ezra Brooks
+List(750 ml);0088076220300;088076220300;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;91b2a858-528d-450e-b842-3833723d2edc;Old Fitzgerald
+List(750 ml);0080432552179;080432552179;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;0fde6782-eb0d-47e8-927d-23000882fc40;Wild Turkey
+List(750 ml);0088076225305;088076225305;Kentucky Straight Bourbon Whiskey;Alcoholic Beverages;7be7e913-c11c-4e20-ad65-40fd34eb0c40;Old Fitzgerald
+List(750 ml);0812164000303;812164000303;Bourbon Whiskey;Alcoholic Beverages;c4e02847-25f6-4170-b8cd-776af23dbc5d;Benjamin Prichard's Double Barreled
+List(750 ml);0088004002695;088004002695;Bourbon Whiskey;Alcoholic Beverages;f95a3ae9-faf7-4c6b-8cfa-a313bf679b05;Charter 101
+List(1.75 lt);0088004021368;088004021368;Bourbon Whiskey;Alcoholic Beverages;59dfcf58-e072-4a8b-9c60-af0960f99a30;Eagle Rare
+List(1.75 lt);0080686507031;080686507031;Bourbon Whiskey;Alcoholic Beverages;d95b07c8-d605-4863-8eee-38a1f61e5c61;Old Crow Reserve
+List(750 ml);0088004025649;088004025649;Bourbon Whiskey;Alcoholic Beverages;c5f5dfb5-64b8-4375-924f-848b189e6fb5;Old Weller Antique
+List(1 lt);0081128001483;081128001483;Bourbon Whiskey;Alcoholic Beverages;b20ac60c-6158-40c7-a5bb-64045334b262;Larbot & Graham Distiller's Select
+List(750 ml);0680203019353;680203019353;Bourbon Whiskey;Alcoholic Beverages;ea3bb6d7-d0eb-4120-aa00-67029a79df7d;Willett

@@ -1,0 +1,94 @@
+List(750 ml);0082000192886;082000192886;Tequila;Alcoholic Beverages;fb9e7dfa-2abb-40a0-ad7e-b72884539a01;Jose Cuervo
+List(0.08 oz, 2.5 ml);0721733000883;721733000883;Tequila;Alcoholic Beverages;8149b0fb-e25b-4b31-a04f-eafba4ed8a62;Patron
+List(5.3 oz);0744607111324;744607111324;Tequila;Alcoholic Beverages;f4cf1071-335c-47a0-90de-3956ce8ce3cd;Herradura
+List(750 ml);0744607111331;744607111331;Tequila;Alcoholic Beverages;6f60b940-428c-45d2-b1a3-c7f4fa8b056a;Herradura
+List(750 ml);0674545000063;674545000063;Tequila;Alcoholic Beverages;24f49f8f-7b69-497c-ba66-72e3020bd1b1;Don Julio
+List(750 ml);0081128028367;081128028367;Tequila;Alcoholic Beverages;a3dec35d-7b6b-4d92-95cc-04178f42c3f9;Pepe Lopez
+List(1.75 lt);0080686832126;080686832126;Tequila;Alcoholic Beverages;290a29ff-babc-49dd-a90d-72412fcc4e7b;Sauza
+List(1 lt);0080480172015;080480172015;Tequila;Alcoholic Beverages;1e73c5bf-2fc6-4088-9fde-9c8a08101782;Cazadores
+List(750 ml);0088352100289;088352100289;Tequila;Alcoholic Beverages;35e7b2c3-7588-4774-9596-7d2844d1b63c;Juarez
+List(750 ml);0674545000322;674545000322;Tequila;Alcoholic Beverages;1d3779a5-750f-4557-b536-db1a739b5bf6;Don Julio
+List(1.75 lt);0674545000629;674545000629;Tequila;Alcoholic Beverages;27ffc2c6-4bae-421f-ab2c-f60df410c616;Don Julio
+List(750 ml);0088352124803;088352124803;Tequila;Alcoholic Beverages;9786a997-d4ea-4aa8-8fa2-f95e89b61098;El Mayor
+List(750 ml);0080686833505;080686833505;Tequila;Alcoholic Beverages;cfbe44c0-dc69-4b24-b645-a28033e74be8;100 Anos
+List(750 ml);0080686836032;080686836032;Tequila;Alcoholic Beverages;178226da-46fa-4912-8ebe-de34ad2cca70;Tres Generaciones
+List(750 ml);0088352124810;088352124810;Tequila;Alcoholic Beverages;f05f6f2c-a1e2-4266-82fa-8f5ba9728e6d;El Mayor
+List(750 ml);0088352124797;088352124797;Tequila;Alcoholic Beverages;fbfc4fbd-8a96-488d-b1c2-698d01cf0553;El Mayor
+List(750 ml);0811538014618;811538014618;Tequila;Alcoholic Beverages;cccafa55-c0bb-4570-aac1-757cf0963b1b;Tenampa Azul
+List(1.75 lt);0080480170004;080480170004;Tequila;Alcoholic Beverages;e59f66e3-d486-4103-b01a-9c36d50ee716;Cazadores
+List(1.75 lt);0674545000643;674545000643;Tequila;Alcoholic Beverages;18fc4a1b-9d6a-467a-9f16-6010fc09531f;Don Julio
+List(750 ml);0815669000182;815669000182;Tequila;Alcoholic Beverages;1166d7a1-183a-450c-815c-971db0a82d49;Hacienda Vieja
+List(1.75 lt);0083960725794;083960725794;Tequila;Alcoholic Beverages;63dae8f7-a7a6-46a4-8925-b9b502c1c38c;Jose Cuervo
+List(750 ml);0080686834021;080686834021;Tequila;Alcoholic Beverages;52d34fab-018d-4d82-9904-cae4496be7ff;Sauza
+List(750 ml);0081240050505;081240050505;Tequila;Alcoholic Beverages;4e31818d-e8bc-467b-9d8c-1a7c01a56569;Casa Noble
+List(750 ml);0674545000414;674545000414;Tequila;Alcoholic Beverages;88e4918b-7504-4249-a739-80b01c53f42b;Don Julio
+List(750 ml);0080686835325;080686835325;Tequila;Alcoholic Beverages;81b027f8-1f48-4d4d-a4bc-805b236c96be;Hornitos
+List(750 ml);0721059247511;721059247511;Tequila;Alcoholic Beverages;037b28cd-6ff1-4767-9fc3-b4556ea9fadf;Gran Centenario
+List(750 ml);0089708306423;089708306423;Tequila;Alcoholic Beverages;c996b670-5b67-4232-b098-88f3493c192a;Baja Luna
+List(750 ml);0080686836018;080686836018;Tequila;Alcoholic Beverages;7b8746e3-4e57-4c6d-b346-59c6307eacd2;Tres Generaciones
+List(750 ml);0811538014519;811538014519;Tequila;Alcoholic Beverages;ba7bbce0-d1c2-469c-9e17-b1e10ea0fb49;Tenampa Azul
+List(375 ml);0088352100241;088352100241;Tequila;Alcoholic Beverages;d454f9b0-10de-4745-b587-7c5a12606f11;Juarez
+List(750 ml);0080480170028;080480170028;Tequila;Alcoholic Beverages;7749ee12-8d1d-4bfc-ba8e-4c5279a0ac45;Cazadores
+List(750 ml);0890344002002;890344002002;Tequila;Alcoholic Beverages;5d87a684-053d-48f6-94e9-c28244167a81;Cruz
+List(750 ml);0744607015202;744607015202;Tequila;Alcoholic Beverages;402527bf-d90e-4448-aa37-a10383b6e9f8;Seleccion Suprema
+List(200 ml);0088352100258;088352100258;Tequila;Alcoholic Beverages;8c15c6b2-d94a-481e-9860-5b4d5e16e853;Juarez
+List(750 ml);0897216002009;897216002009;Tequila;Alcoholic Beverages;ab44dacb-17cd-4a0d-89a2-8c5bb8cfba6d;Azunia
+List(750 ml);0897216002016;897216002016;Tequila;Alcoholic Beverages;4ae2e58b-b721-4cc5-9a1e-95ee8ba26596;Azunia
+List(1.75 lt);0811538010252;811538010252;Tequila;Alcoholic Beverages;2d0c3ddf-b11b-4323-adbf-990aeba3257e;Proximo Spirits
+List(750 ml);0083960708131;083960708131;Tequila;Alcoholic Beverages;eee1fa68-fe0f-441c-906c-734e965647eb;Jose Cuervo
+List(750 ml);0080480171513;080480171513;Tequila;Alcoholic Beverages;a126f481-0a89-419e-9553-3a04b0a61732;Corzo
+List(750 ml);0081128028862;081128028862;Tequila;Alcoholic Beverages;3da44ea1-ed22-4e05-b51c-85dbdf99350f;Pepe Lopez
+List(1.75 lt);0674545000636;674545000636;Tequila;Alcoholic Beverages;7670e6cb-b26c-4a73-8cef-af025bfca0cb;Don Julio
+List(1.75 lt);0081128028121;081128028121;Tequila;Alcoholic Beverages;caa2fe8c-f213-455d-81af-4a575190299a;Pepe Lopez
+List(1.75 lt);0021130211210;021130211210;Tequila;Alcoholic Beverages;c7669fa2-3758-4b01-8bf1-f4fbd164bda7;Bandolero
+List(750 ml);0080432100943;080432100943;Tequila;Alcoholic Beverages;0daabadd-af37-4c20-9b08-1c80e01cfb53;Olmeca
+List(750 ml);0720815911635;720815911635;Tequila;Alcoholic Beverages;619d4f67-71fe-4bb2-8190-9754b2c5046c;Cabo Uno
+List(750 ml);0084380426247;084380426247;Tequila;Alcoholic Beverages;dc284ca8-1933-4451-94fa-f0bba0990a1e;Bartenders Cocktails
+List(750 ml);0080686833017;080686833017;Tequila;Alcoholic Beverages;24aa82f7-b869-402d-afd3-4eaffd227904;Sauza
+List(375 ml);0082000193012;082000193012;Tequila;Alcoholic Beverages;f1ca4b86-d2a3-4c22-b692-cbca76f6eaee;Cuervo Especial
+List(750 ml);0811538014038;811538014038;Tequila;Alcoholic Beverages;e129d14c-7b03-4d54-a01f-63c54fd04a34;Gran Centenario Anejo
+List(750 ml);0085592121043;085592121043;Strawberry Cream;Alcoholic Beverages;cd34fbb7-51ee-454a-a84d-e47e240fe8c2;Tequila Rose
+List(750 ml);0081240049165;081240049165;La Pinta Pomegranate Infused Tequila;Alcoholic Beverages;3a454519-ec30-4fff-a5a9-907fd7427647;La Pinta Tequila
+List(11.8 oz, 350 ml);0082000192985;082000192985;Gold Tequila Gold 1.75 L;Alcoholic Beverages;c130e190-78a9-4fa1-b61f-da56b9c38387;Jose Cuervo
+List(750 ml);0080660577258;080660577258;Mezcal Tequila With Agave Worm;Alcoholic Beverages;75cbfb52-56c9-44d9-83f8-ea012e29ca9e;Monte Alban
+List(750 ml);0720815930636;720815930636;Corralejo Blanco Tequila;Alcoholic Beverages;f4b9e210-21e9-4d85-aac1-f1f39ed5f398;Corralejo
+List(750 ml);0080686835028;080686835028;Nuestro Tequila;Alcoholic Beverages;26cd09d5-7a63-4cbe-8168-d68886a00cec;Sauza
+List(750 ml);0081240050376;081240050376;Casa Noble Crystal Tequila Blanco;Alcoholic Beverages;1d21dc92-85eb-4408-b917-04681a14cc9e;Casa Noble
+List(750 ml);0080686832010;080686832010;Tequila Blanco;Alcoholic Beverages;ae4349f9-4f55-4407-a64d-289066706c5a;Sauza
+List(1.75 lt);0080686831129;080686831129;Tequila Gold;Alcoholic Beverages;5e8cc84a-a008-4584-ad20-dd94877e4dba;Sauza
+List(750 ml);0088352121536;088352121536;Tequila Gold;Alcoholic Beverages;e30c97f8-4b14-4a6f-8b32-15333a8b97eb;Margaritaville
+List(750 ml);0720815930131;720815930131;Corralejo Tequila Reposado;Alcoholic Beverages;fb27718e-a538-4c68-a698-1f9dd4da027b;Corralejo
+List(750 ml);0721733000159;721733000159;Gold Tequila;Alcoholic Beverages;5472b5dd-9244-4dab-b1fb-bf1091aed9cd;Patron
+List(750 ml);0083664868940;083664868940;Tequila Reposado;Alcoholic Beverages;b8643150-a74a-46b0-8a92-e8020a039b15;Leyenda Del Milagro
+List(750 ml);0721733000012;721733000012;Tequila 100% De Agave;Alcoholic Beverages;018f239c-e75b-4463-b800-ae200dcd1ab2;Patron
+List(750 ml);0083960190455;083960190455;Tequila Reposado;Alcoholic Beverages;e04cd9c4-a6b1-443e-95cb-b4e7d8f10522;Jose Cuervo
+List(750 ml);0721733000913;721733000913;Silver Tequila;Alcoholic Beverages;e51cd629-0daf-44f6-a057-6daea09dfb67;Gran Patron
+List(750 ml);0720815910539;720815910539;Cabo Wabo Anejo Tequila;Alcoholic Beverages;62c3fa64-7b09-456a-9461-df88fa8168eb;Bali's Best
+List(750 ml);0083664868919;083664868919;Tequila Silver;Alcoholic Beverages;bad4f130-b684-4687-b19c-5ebdca62c340;Leyenda Del Milagro
+List(1 lt);0082000726296;082000726296;Tequila Joven;Alcoholic Beverages;7a7b0faf-1ea5-432d-9dba-c8963768654f;Jose Cuervo
+List(750 ml);0744607068208;744607068208;Tequila Blanco;Alcoholic Beverages;695b5a10-e2cc-4e21-a0f7-6af335e9e064;El Jimador
+List(750 ml);0721059227537;721059227537;1800 Tequila Reserva;Alcoholic Beverages;53a4091d-3ee4-43ce-9eb1-4b644e57e0ab;Skyy Spirits
+List(750 ml);0080686833208;080686833208;Tequila Anejo;Alcoholic Beverages;05aa62c8-7bea-4302-87d1-c5f8739da578;100 Anos
+List(1 lt);0087000000261;087000000261;Tequila Oro;Alcoholic Beverages;d134ca79-5225-4c7b-824b-2ebc1fd06bf1;Hemisphere Dancer
+List(1 lt);0080686833086;080686833086;Tequila Blanco;Alcoholic Beverages;6372d9ab-ccb0-4122-bb90-3dc733f0e126;100 Anos
+List(1.75 lt);0087000002036;087000002036;Tequila Blanco;Alcoholic Beverages;537740e3-d1d2-47aa-b582-c98572336328;Hemisphere Dancer
+List(750 ml);0853628001122;853628001122;267 Tequila Infusion;Alcoholic Beverages;45aaa47f-f1b7-437b-9360-522c10a01f34;Boz Spirits
+List(750 ml);0080432101827;080432101827;Triple Distilled Tequila;Alcoholic Beverages;06c98266-6482-44b2-97c0-a6e31c8e6dc3;Tevado
+List(1.75 lt);0082000726302;082000726302;Tequila Joven;Alcoholic Beverages;36358487-4db8-4a2d-b688-fe712d73d68c;Jose Cuervo
+List(25.36);0811538010238;811538010238;1800 Reposado Tequila;Alcoholic Beverages;80c595e8-585a-4fdc-9d3d-d02fa2841f36;Proximo Spirits
+List(1.75 lt);0087000000186;087000000186;Tequila Oro;Alcoholic Beverages;94d5c63f-0910-48d7-a4c9-c219ae220285;Hemisphere Dancer
+List(750 ml);0689768111007;689768111007;Blue Tequila;Alcoholic Beverages;f59c25aa-b1c2-417d-8e07-01ef04c452ca;Agavero
+List(750 ml);0082000193098;082000193098;Imported La Rojena Tequila;Alcoholic Beverages;ebcb26da-ef51-4560-8091-29d40a389407;Jose Cuervo
+List(750 ml);0082000726289;082000726289;Tequila Joven;Alcoholic Beverages;2b15114c-5a8c-4196-a44a-6082145cc07b;Jose Cuervo
+List(1.75 lt);0082000743750;082000743750;Tequila Plata;Alcoholic Beverages;c87105ca-1140-4809-8d2f-caf51105000d;Jose Cuervo
+List(1 lt);0087000002128;087000002128;Tequila Blanco;Alcoholic Beverages;0c7e72fd-020c-40b3-8b58-7a10a25fed21;Hemisphere Dancer
+List(1 lt);0080686831051;080686831051;Tequila Gold;Alcoholic Beverages;c671805d-d103-485d-b432-632ea313c740;Sauza
+List(750 ml);0721059227506;721059227506;1800 Tequila Reserva;Alcoholic Beverages;ff53ae10-cbbd-4f0f-a4d5-e9d6bcd707d0;Skyy Spirits
+List(750 ml);0083960726142;083960726142;Premium Tequila;Alcoholic Beverages;ac769ffc-57e5-45e8-ae1f-e2fdf47932dd;Jose Cuervo
+List(1.75 lt);0721059221757;721059221757;1800 Tequila Reserva;Alcoholic Beverages;c7dd14bf-e07b-4af5-ac66-1bc660d8e146;Skyy Spirits
+List(750 ml);0083960726227;083960726227;Premium Tequila;Alcoholic Beverages;f83c17a9-953b-4657-82d0-4d717e0ce50c;Jose Cuervo
+List(1 lt);0082000743743;082000743743;Tequila Plata;Alcoholic Beverages;636e36ec-bd7f-4778-97c6-d3c8f4ffd135;Smirnoff
+List(750 ml);0811538010337;811538010337;1800 Select Silver Tequila;Alcoholic Beverages;a18a80ab-022c-472f-9e4a-ab1dd583f25b;Proximo Spirits
+List(1 lt);0080686833093;080686833093;Tequila Reposado;Alcoholic Beverages;89938e19-6daa-4b35-b1ec-df1e8ed7766e;100 Anos
+List(750 ml);0082000743736;082000743736;Tequila Plata;Alcoholic Beverages;85755e3a-c978-4559-9265-bd0a8a841621;Smirnoff
+List(750 ml);0744607063203;744607063203;Tequila Anejo;Alcoholic Beverages;0a75e9e3-bdbe-4000-a4ee-c4a67e6ebf5f;El Jimador

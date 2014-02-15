@@ -1,0 +1,89 @@
+List(1.75 lt);0080686821120;080686821120;Whisky;Alcoholic Beverages;4518637c-e410-4219-87da-a16d19f78ec0;Canadian Club
+List(750 ml);0096749487301;096749487301;Whisky;Alcoholic Beverages;7c494c5b-7a20-4ccd-96f1-d644a3e8441c;Canadian Superior
+List(1.75 lt);0088004020828;088004020828;Whisky;Alcoholic Beverages;c051a63c-707d-4046-bc44-dd1fd9984751;Benchmark
+List(375 ml);0088352110981;088352110981;Whisky;Alcoholic Beverages;5896b8ff-0eae-4eaf-90a6-c39cf0ea311a;Canadian De Luxe
+List(1.75 lt);0089540168418;089540168418;Whisky;Alcoholic Beverages;3428ad2e-69e8-4690-a549-0949165ff1ab;Canadian Club
+List(200 ml);0088352110998;088352110998;Whisky;Alcoholic Beverages;158de036-36a4-4ed6-8351-00c92d074aa9;Canadian De Luxe
+List(200 ml);0088004040277;088004040277;Whisky;Alcoholic Beverages;19a43a59-d924-4b86-b267-6d30e20ee5cb;James Foxe
+List(750 ml);0088352110974;088352110974;Whisky;Alcoholic Beverages;455d66aa-9fbd-497b-bebb-98bd29973664;Canadian De Luxe
+List(1.75 lt);0085246139417;085246139417;Whisky;Alcoholic Beverages;6843e0bd-bac8-429e-a17f-eac4ce29c191;Maker's Mark
+List(750 ml);0080432103159;080432103159;16 Year Nadurra Scotch Whisky;Alcoholic Beverages;d2095a22-d78f-457c-a2a9-01eab4acf7ae;The Glenlivet Whisky
+List(750 ml);0085246500101;085246500101;Maker's 46 Kentucky Whiskey Rated 90-95We;Alcoholic Beverages;a26f53cd-d25b-405d-822b-cb8f747ff53e;Maker's 46 Whisky
+List(750 ml);0088110011307;088110011307;Blended Scotch Whisky;Alcoholic Beverages;1b333e31-f0a6-49c4-b1a4-16a710f88fd0;Johnnie Walker
+List(750 ml);0087236100476;087236100476;Highland Scotch Whisky;Alcoholic Beverages;93209b50-dca3-43de-bc20-e816c156c6c4;The Macallan
+List(750 ml);0087000007253;087000007253;Blended Canadian Whisky;Alcoholic Beverages;0e7516c4-9582-4f8b-a2f1-29357b507a6c;Crown Royal
+List(700 ml);0087236400118;087236400118;Single Malt Scotch Whisky;Alcoholic Beverages;1eca15e8-8e9f-4b1a-bc9a-778f4b3439fc;Highland Park
+List(700 ml);0087647081425;087647081425;Single Malt Scotch Whisky;Alcoholic Beverages;03953c48-ac69-4138-8ff7-f87823e9c028;Isle Of Jura
+List(1.75 lt);0087000700604;087000700604;Blended Canadian Whisky;Alcoholic Beverages;6136a083-0681-4504-9fda-0b78204700cb;Crown Royal
+List(750 ml);0080432400630;080432400630;Single Malt Scotch Whisky;Alcoholic Beverages;c3404024-bfe8-4a6e-8ee9-f02afd4a7ed4;The Glenlivet
+List(700 ml);0850483000048;850483000048;Single Malt Scotch Whisky;Alcoholic Beverages;10c3a7b8-c645-4131-af67-a7125c57f75d;Bowmore
+List(1.75 lt);0088100134511;088100134511;Imported Canadian Whisky;Alcoholic Beverages;b2f605b7-db0d-4ede-85da-c97996fd5790;Black Velvet
+List(750 ml);0088076171541;088076171541;Blended Scotch Whisky;Alcoholic Beverages;24d1f67c-abf5-4cc7-93c5-ac732116fd87;Johnnie Walker
+List(750 ml);0088110070052;088110070052;Scotch Whisky;Alcoholic Beverages;90cf9035-0fb2-4914-9827-aeb290ec9ea5;Johnnie Walker
+List(750 ml);0088110021306;088110021306;Blended Scotch Whisky;Alcoholic Beverages;ee4b8777-639e-4c33-abcb-0fbae8b8f297;Johnnie Walker
+List(500 ml);0688444500180;688444500180;The Saints Whisky Beer;Alcoholic Beverages;259b4748-0fbb-4219-bc6d-b59d01cecdbf;St. Peter's
+List(1.75 lt);0081128023003;081128023003;Blended Whisky;Alcoholic Beverages;585b1c7d-c78c-4196-934c-0666dea2dab1;Canadian Mist
+List(500 ml);0088004144722;088004144722;Liqueur Blended With Cinnamon & Whisky;Alcoholic Beverages;5b4ae781-abd5-40f2-8c3a-3040be05ce9b;Fireball
+List(750 ml);0083664107360;083664107360;Single Malt Scotch Whisky;Alcoholic Beverages;23b5fcf1-3197-414e-9261-1643fc388094;Glenfiddich
+List(1 lt);0087000007321;087000007321;7 Crown American Whisky 1L;Alcoholic Beverages;5589cff8-b2fd-4f9f-9db0-6e2092a73fb4;Seagram's
+List(750 ml);0080480231026;080480231026;Blended Scotch Whisky;Alcoholic Beverages;f474d754-5d54-4914-83e0-e3d4f1c92f22;Dewar's
+List(1.75 lt);0080480230005;080480230005;Blended Scotch Whisky;Alcoholic Beverages;68a4e6c7-6027-4781-ba05-d78e108bc9dd;Dewar's
+List(750 ml);0081128023164;081128023164;Blended Whisky;Alcoholic Beverages;fb924a47-da87-4758-8fbd-74fe649c870f;Canadian Mist
+List(750 ml);0087000001220;087000001220;Canadian Whisky A Blend;Alcoholic Beverages;906a65b9-29e6-4e5f-8187-90e57e1c7126;Seagram's
+List(1.75 lt);0087000202429;087000202429;Canadian Whisky A Blend;Alcoholic Beverages;7957273a-cf4b-485a-9537-1bd5cf6b8946;Seagram's
+List(750 ml);0088110985042;088110985042;Blended Scotch Whisky;Alcoholic Beverages;3e5c027f-44c2-4a65-b0b0-ef7388de09db;Justerini & Brooks
+List(1 lt);0088110011406;088110011406;Blended Scotch Whisky;Alcoholic Beverages;6f90035f-88d1-472f-9478-987bb20af9c0;Johnnie Walker
+List(700 ml);0088110090050;088110090050;Scotch Whisky;Alcoholic Beverages;1b786a35-a8cc-48dd-be6c-62c80fca3b99;Cragganmore
+List(1.75 lt);0083664120260;083664120260;Scotch Whisky;Alcoholic Beverages;f1a20ffe-b665-4322-b4db-04028f84008a;Clan Macgregor
+List(1.75 lt);0089540352817;089540352817;Blended Scotch Whisky;Alcoholic Beverages;a7bc69d0-d202-4f6b-b8b2-98d1f599a3da;Ballantine's Finest
+List(750 ml);0082184087008;082184087008;Single Barrel Tennessee Whisky;Alcoholic Beverages;8d0ffb89-e2fb-488c-ac36-3bc1a9c86066;Jack Daniel's
+List(700 ml);0080432400180;080432400180;Regal 12 Year Old Blended Scotch Whisky;Alcoholic Beverages;10134f35-34d6-4d14-a94e-f9f67ace4a73;Chivas
+List(750 ml);0088110170059;088110170059;Scotch Whisky;Alcoholic Beverages;0a3a5198-b663-4aeb-8d08-5d77668e9b6a;Talisker
+List(1.75 lt);0082928223310;082928223310;Blended Whisky;Alcoholic Beverages;018b6033-41cc-4bc7-839f-83f6145a4966;Canadian
+List(750 ml);0087236400033;087236400033;Finest Scotch Whisky;Alcoholic Beverages;71d4d8a5-deab-4064-b48a-3e41e3d26f35;The Famous Grouse
+List(1.75 lt);0081128010508;081128010508;Kentucky Whisky;Alcoholic Beverages;ee634e7f-7676-41db-858a-e06d95a4a5c8;Early Times
+List(1.75 lt);0721059051750;721059051750;Blended Scotch Whisky;Alcoholic Beverages;74319e03-f8e6-49ac-b220-f17dd040e996;Cutty Sark
+List(1.75 lt);0088110985004;088110985004;Blended Scotch Whisky;Alcoholic Beverages;44e823ab-f847-42aa-9e6e-c17055fa851c;Diageo North America
+List(750 ml);0080686813019;080686813019;Scotch Whisky;Alcoholic Beverages;65fc8581-b7c0-42d5-90ea-2d13bcd6e130;Laphroaig
+List(1.75 lt);0087236400057;087236400057;Finest Scotch Whisky;Alcoholic Beverages;6f063277-be20-4946-bdad-da4eedf3208e;The Famous Grouse
+List(750 ml);0080480230029;080480230029;Blended Scotch Whisky;Alcoholic Beverages;06076e23-778b-400e-950a-2e275d35e10f;Dewar's
+List(750 ml);0087236100001;087236100001;Highland Scotch Whisky;Alcoholic Beverages;3a73b98e-dbfe-4acc-97ce-3e28ed0fc24d;The Macallan
+List(750 ml);0083664112234;083664112234;Malt Scotch Whisky;Alcoholic Beverages;741a9f70-30e0-47b2-af48-b27bd27f8256;The Balvenie
+List(750 ml);0080432100783;080432100783;Single Malt Scotch Whisky;Alcoholic Beverages;b59507ce-2eda-4c57-b086-ed243b595b95;The Glenlivet
+List(700 ml);0088110130053;088110130053;Lowland Scotch Whisky;Alcoholic Beverages;67d5759d-0df3-4ef6-ad8a-26e6474e8661;Glenkinchie
+List(1.75 lt);0088004700256;088004700256;Canadian Hunter Canadian Whisky;Alcoholic Beverages;3bf93564-4fe7-4782-bfc7-dd5cc78d95e3;Canadian Hunter
+List(750 ml);0080686749028;080686749028;Scotch Whisky;Alcoholic Beverages;1a0f3260-d1bd-44f3-80e1-56f01d609798;Ardmore
+List(1 lt);0087116035720;087116035720;Canadian Spiced Whisky;Alcoholic Beverages;0609959b-8f75-4f76-bea8-10071d302f78;Revelstoke
+List(750 ml);0048415411356;048415411356;Canadian Whisky Canadien;Alcoholic Beverages;e24fd072-ec0f-4ac5-9d91-6b8492a7e435;Lot 40
+List(1.75 lt);0088076201002;088076201002;Blended Scotch Whisky;Alcoholic Beverages;0e56b608-738a-49e3-91b6-f7f2707bba7a;Scoresby
+List(1.75 lt);0088004000332;088004000332;Canadian Whisky;Alcoholic Beverages;c144267c-a35d-4676-96e5-c1211ead2d6b;Rich & Rare
+List(1.75 lt);0088076201200;088076201200;Blended Scotch Whisky;Alcoholic Beverages;f8a9d8cb-2677-4b62-b708-e97064f4a49a;Usher's
+List(1.75 lt);0021130200207;021130200207;Scotch Whisky;Alcoholic Beverages;b8b40846-91c0-4b3d-be09-ce86c72a9a19;Tartan Royal
+List(1 lt);0088076200999;088076200999;Blended Scotch Whisky;Alcoholic Beverages;520b2537-391e-4706-b839-7c96d4c5b81f;Scoresby
+List(35 cl);0087236400040;087236400040;The Scotch Whisky;Alcoholic Beverages;5106c70f-3816-4b63-a978-6643455cf961;Famous Grouse
+List(1.75 lt);0087116035805;087116035805;Canadian Spiced Whisky;Alcoholic Beverages;551ebde7-f7f9-4a92-bb2c-8e243e89ea7e;Revelstoke
+List(750 ml);0083664112210;083664112210;Single Malt Scotch Whisky;Alcoholic Beverages;008681c4-2552-4713-a2f1-fa28b1fe8860;The Balvenie
+List(1 lt);0088076201194;088076201194;Blended Scotch Whisky;Alcoholic Beverages;71fdd857-f057-467e-81b5-5232c8af3447;Usher's
+List(750 ml);0088110080020;088110080020;Mature Scotch Whisky;Alcoholic Beverages;afbafc87-4078-4074-bc8a-9ca2af9b3c63;Johnnie Walker
+List(750 ml);0088110955328;088110955328;Blended Scotch Whisky;Alcoholic Beverages;c3eb29b9-7b3c-470e-9254-678d2e8635a8;Buchanans
+List(750 ml);0082000734338;082000734338;Canadian Whisky;Alcoholic Beverages;d9e10883-37bd-4d61-bcc9-4748a27b8310;Crown Royal
+List(1.75 lt);0721059531757;721059531757;Blended Scotch Whisky;Alcoholic Beverages;7606a3cf-39c3-4e05-8666-678924f27eaf;Old Smuggler
+List(1.75 lt);0088076200975;088076200975;Blended Scotch Whisky;Alcoholic Beverages;55b85c5c-4deb-427b-8a65-d2d68d37a9f6;Vat 69
+List(1.75 lt);0087512040502;087512040502;Blended Scotch Whisky;Alcoholic Beverages;fe338b83-142c-4efa-bdab-500b492a2ca7;Crawford
+List(1.75 lt);0080480231002;080480231002;Finest Scotch Whisky;Alcoholic Beverages;9cdc085f-1605-4b50-a458-2c537773eb56;Dewar's
+List(1.75 lt);0088076172166;088076172166;Blended Scotch Whisky;Alcoholic Beverages;74c83081-eef8-499a-9d00-2fb8fe7126bb;Johnnie Walker
+List(750 ml);0081128010621;081128010621;Kentucky Whisky;Alcoholic Beverages;529ab3c9-7381-4e7f-9e5c-213f289ee959;Early Times
+List(750 ml);0088076172487;088076172487;Malt Scotch Whisky;Alcoholic Beverages;8ba5502e-3cd6-4f7b-892f-9a0597cbf1d9;Port Ellen
+List(750 ml);0088076006232;088076006232;Original Tennessee Whisky;Alcoholic Beverages;610e1440-c05f-4a16-81e1-8d942bdee991;Dickel
+List(750 ml);0088110100056;088110100056;Scotch Whisky;Alcoholic Beverages;8dbcf31e-68f8-4301-a9d7-313b20630d1c;Dalwhinnie
+List(750 ml);0021130212460;021130212460;Blended Whisky;Alcoholic Beverages;7dd76d32-f86c-4237-871b-0f0a76499733;75 South
+List(750 ml);0080660774053;080660774053;Scotch Whisky;Alcoholic Beverages;ce24de11-5224-49a3-b33b-b900d2463458;Spey Burn
+List(1 lt);0088076172159;088076172159;Blended Scotch Whisky;Alcoholic Beverages;68aaa08f-95b6-4e18-9f72-bd8bdffa515d;Johnnie Walker
+List(1.75 lt);0096749766109;096749766109;Blended Scotch Whisky;Alcoholic Beverages;001805e9-0861-436e-89a3-eec4a456f7bd;Cluny
+List(500 ml);0088004144722;088004144722;Liqueur Blended With Cinnamon & Whisky;Alcoholic Beverages;5b4ae781-abd5-40f2-8c3a-3040be05ce9b;Fireball
+List(750 ml);0655709000020;655709000020;Kentucky Straight Bourbon Whisky;Alcoholic Beverages;1488e513-b8f3-4326-a8fa-546f317abbae;Sam Houston
+List(750 ml);0081128001063;081128001063;Bourbon Whisky;Alcoholic Beverages;3834e3db-d605-4c00-b365-113dbcda281d;Old Forester Signature
+List(1 lt);0088004020835;088004020835;Bourbon Whisky;Alcoholic Beverages;84fc3795-7edf-4aa9-84eb-c84816a58567;Benchmark Old No. 8
+List(375 ml);0081128005139;081128005139;Bourbon Whisky;Alcoholic Beverages;5dd7e1d4-fd4e-4e9c-8d68-458765c9b8c1;Old Forester
+List(750 ml);0088004025540;088004025540;Bourbon Whisky;Alcoholic Beverages;5222ebc2-960e-4a58-ba8e-40fb1bcc3d46;Old Charter
+List(1.75 lt);0081128005009;081128005009;Bourbon Whisky;Alcoholic Beverages;70d14616-c76b-49e8-826c-486a3f218b3c;Old Forester

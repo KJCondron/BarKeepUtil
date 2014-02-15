@@ -1,0 +1,46 @@
+List(1.75 ltr);0085000004050;085000004050;Fine Brandy And Cream Liqueur;Alcoholic Beverages;06469f04-418f-460b-868d-bb15bced78b9;E&j Distillers
+List(1.75 lt);0080686315124;080686315124;Brandy;Alcoholic Beverages;627d0140-641c-47c2-8ff3-a5fcdb00e4ea;Dekuyper
+List(1 lt);0080686338208;080686338208;Brandy;Alcoholic Beverages;a271e915-1204-412d-a7eb-ee81eeffdc3c;Dekuyper
+List(1.75 lt);0080686329121;080686329121;Brandy;Alcoholic Beverages;3cb02555-cb95-4cf2-a9fc-d349c96f8673;Dekuyper
+List(1 lt);0080686329206;080686329206;Brandy;Alcoholic Beverages;54a48245-443e-4a2c-b029-25e8cda26603;Dekuyper
+List(1 lt);0080686349204;080686349204;Brandy;Alcoholic Beverages;5ea9f8c2-2797-43dc-a136-ba1780fddb48;Dekuyper
+List(1 lt);0080686314202;080686314202;Brandy;Alcoholic Beverages;3a4fe854-2269-4cb5-aefd-9444d8453886;Dekuyper
+List(750 ml);0080686349402;080686349402;Brandy;Alcoholic Beverages;bbd08655-2a61-4abb-acb5-d551ddc31216;Dekuyper
+List(1 lt);0080686315209;080686315209;Brandy;Alcoholic Beverages;4d4edcfd-f4ed-4215-9c9a-6ff26c92b7e5;Dekuyper
+List(750 ml);0085000004135;085000004135;E&J Vs Brandy;Alcoholic Beverages;32497b50-1bf8-4858-8d46-4ed4bc0f96e3;Brandy
+List(1.75 ltr);0085000004159;085000004159;E&J Vs 1.75 L;Alcoholic Beverages;34c2e3bb-05f5-4afc-b9ae-847b9f624d38;Brandy
+List(750 ml);0021296006019;021296006019;Brandy;Alcoholic Beverages;0982baf1-7cac-4ca9-a511-0567d50a10ad;Paul Masson
+List(1.75 lt);0080660582511;080660582511;Brandy;Alcoholic Beverages;18551f6d-e0ec-408e-a285-6de17b049e3a;Hartley
+List(750 ml);0084704000078;084704000078;Brandy;Alcoholic Beverages;35f0efec-f6da-4ca4-a5f4-55059b86f617;Korbel
+List(1.75 lt);0086036815474;086036815474;Brandy;Alcoholic Beverages;2e4a5c2c-6bad-46db-8166-6840b5a75464;Christian Brothers
+List(375 ml);0085000004265;085000004265;Brandy;Alcoholic Beverages;bf94fdf0-378c-4309-8f7a-4e9e3dc8dd37;E&j Distillers
+List(1.75 lt);0080686315124;080686315124;Brandy;Alcoholic Beverages;627d0140-641c-47c2-8ff3-a5fcdb00e4ea;Dekuyper
+List(750 ml);0084704000092;084704000092;Brandy;Alcoholic Beverages;1228552e-36cb-4e62-8c95-f0e3a7dcedfe;Korbel
+List(750 ml);0082422020149;082422020149;Brandy;Alcoholic Beverages;a1e6265d-7b97-452d-84bc-38e1b9c4769c;Don Pedro
+List(750 ml);0021130208302;021130208302;Brandy;Alcoholic Beverages;e09f561d-33cf-4ebb-acc8-6b2eb87d70d3;D. W. Anders
+List(1 lt);0080686338208;080686338208;Brandy;Alcoholic Beverages;a271e915-1204-412d-a7eb-ee81eeffdc3c;Dekuyper
+List(1.75 lt);0084704000290;084704000290;Brandy;Alcoholic Beverages;dee2ef76-8c06-4f7e-a88a-dccebfaee3ff;Korbel
+List(1.75 lt);0080686329121;080686329121;Brandy;Alcoholic Beverages;3cb02555-cb95-4cf2-a9fc-d349c96f8673;Dekuyper
+List(1 lt);0080686329206;080686329206;Brandy;Alcoholic Beverages;54a48245-443e-4a2c-b029-25e8cda26603;Dekuyper
+List(1 lt);0080686349204;080686349204;Brandy;Alcoholic Beverages;5ea9f8c2-2797-43dc-a136-ba1780fddb48;Dekuyper
+List(1 lt);0080686314202;080686314202;Brandy;Alcoholic Beverages;3a4fe854-2269-4cb5-aefd-9444d8453886;Dekuyper
+List(750 ml);0080686349402;080686349402;Brandy;Alcoholic Beverages;bbd08655-2a61-4abb-acb5-d551ddc31216;Dekuyper
+List(1 lt);0080686315209;080686315209;Brandy;Alcoholic Beverages;4d4edcfd-f4ed-4215-9c9a-6ff26c92b7e5;Dekuyper
+List(750 ml);0085000011126;085000011126;Brandy;Alcoholic Beverages;3d3f1395-4aae-46c8-bc4b-289ed9366cf9;E&j Distillers
+List(375 ml);0085000009208;085000009208;Brandy;Alcoholic Beverages;9448063d-9547-4f44-afbe-cb4dd5509343;E&j Distillers
+List(6.8);0021296006033;021296006033;Brandy;Alcoholic Beverages;53c4f91e-46e2-4117-872a-5232e36e9d86;Paul Masson
+List(750 ml);0086036815597;086036815597;Very Smooth Brandy Vs;Alcoholic Beverages;9b1c6c33-b054-4a0d-abf4-c4fb9e09162e;Christian Brothers
+List(750 ml);0086036710946;086036710946;Brandy Grand Reserve Vsop;Alcoholic Beverages;6292b887-ca5a-4eee-a513-b13aef2aecc7;Christian Brothers
+List(1.75 ltr);0085000004050;085000004050;Fine Brandy And Cream Liqueur;Alcoholic Beverages;06469f04-418f-460b-868d-bb15bced78b9;E&j Distillers
+List(750 ml);0087236992002;087236992002;French Brandy;Alcoholic Beverages;b2c5269b-faee-4045-80f0-75477a5df20f;St,. Remy
+List(1.75 lt);0021296600309;021296600309;Vs Grande Amber Brandy 1.75 L;Alcoholic Beverages;328bd647-20f7-441c-a613-b2046e7815ba;Paul Masson
+List(750 ml);0085000003817;085000003817;Vsop Brandy;Alcoholic Beverages;605809d7-f18c-43d1-ae9c-e22f9157879c;E&j Distillers
+List(1.75 lt);0085000003930;085000003930;Reserve Vsop Brandy;Alcoholic Beverages;ba878838-61b1-4ebf-973d-28ba54bda2c0;E&j Distillers
+List(25.4);0084848100306;084848100306;Applejack Brandy;Alcoholic Beverages;95ed9358-98a5-413f-bd8d-55d355897fe5;Laird's
+List(750 ml);0082422489335;082422489335;Imported Brandy;Alcoholic Beverages;ff278b46-2426-4058-84c7-f618ddb56cab;Presidente
+List(750 ml);0089540386126;089540386126;Blackberry Brandy;Alcoholic Beverages;022cbdca-1cf6-4efd-bb5d-af49de862a1e;Hiram Walker
+List(1.75 lt);0088110931018;088110931018;Triple Orange Liqueur & Cognac Brandy;Alcoholic Beverages;b13b8926-87f2-4594-820e-b0cc73c788d8;Grand Marnier
+List(1 lt);0085000003978;085000003978;Fine Brandy And Cream;Alcoholic Beverages;0ce842a3-bbc9-4146-8eb5-d9c495f17f75;E&j Distillers
+List(750 ml);0021296006309;021296006309;Grande Amber Brandy;Alcoholic Beverages;50d8e06b-e81c-4162-b78a-0e87e057e183;Paul Masson
+List(750 ml);0089540125503;089540125503;Flavored Brandy;Alcoholic Beverages;51d7cb6f-6f13-452b-90ef-be0c41a45027;Hiram Walker
+List(750 ml);0089540125473;089540125473;Flavored Brandy;Alcoholic Beverages;0bc65bdd-8997-4297-932c-9d38edc99ba5;Hiram Walker

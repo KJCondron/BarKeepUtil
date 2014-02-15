@@ -1,0 +1,105 @@
+List(750 ml);0082000002208;082000002208;Vodka & Bourbon Whiskey;Alcoholic Beverages;fa6fb59b-5b46-4351-a0e4-c7299c9dd266;Jeremiah Weed
+List(1 lt);0082000002215;082000002215;Vodka & Bourbon Whiskey;Alcoholic Beverages;cb08242b-bfe4-4bfd-90bc-a99e8c0cdb97;Jeremiah Weed
+List(5.9);0728704017505;728704017505;Vikingfjord;Alcoholic Beverages;2db33b8f-814c-4b1f-84de-2d7ec8fb811e;Vodka
+List(750 ml);0080480280024;080480280024;Vodka;Alcoholic Beverages;3d3cb3c7-146a-4156-8f65-fa5ddf2e44e7;Grey Goose
+List(700 ml);0736040018728;736040018728;Vodka;Alcoholic Beverages;3722272e-dd17-4e80-a86c-9cb9c3b37fd3;Russian Standard
+List(750 ml);0627040411414;627040411414;Vodka;Alcoholic Beverages;77a73abd-37e9-4833-b2f0-96fee28c3824;Crystal Head
+List(750 ml);0080686940463;080686940463;Vodka;Alcoholic Beverages;2790fffb-a612-41be-8ecf-5f8309cf7ab8;VOX
+List(700 ml);0891522002036;891522002036;Vodka;Alcoholic Beverages;46230e3b-be48-4b37-8d6c-31a711faa786;Pinky
+List(1.75 lt);0080480280000;080480280000;Vodka;Alcoholic Beverages;4ce029f4-7edc-4bfc-ab28-c5b9f36eb984;Grey Goose
+List(700 ml);0080480284329;080480284329;Vodka;Alcoholic Beverages;30bfd195-b6cf-4278-ad9e-0b84597f7808;42 Below
+List(750 ml);0087116069688;087116069688;Vodka;Alcoholic Beverages;4813252c-e97f-4ebd-92db-a98a1d179d25;Belvedere
+List(1.75 lt);0085156803682;085156803682;Vodka;Alcoholic Beverages;9fd93ac0-3f3e-466a-b074-a24814c519e6;Ketelone
+List(59.2);0088600000101;088600000101;Vodka;Alcoholic Beverages;138291aa-20b4-474b-8ba3-3aa9be73c38d;Gordon
+List(750 ml);0089016008224;089016008224;Vodka;Alcoholic Beverages;64a60104-30ae-4f84-8436-d1434ea15817;Sobieski
+List(1.75 lt);0082000751328;082000751328;Vodka;Alcoholic Beverages;61a8a844-77c8-44d5-a4be-1a489fdc23d1;Rokk
+List(750 ml);0721733400003;721733400003;Vodka;Alcoholic Beverages;385f9783-75be-4dbd-916f-5d045910a2f6;Ultimat
+List(750 ml);0087116012394;087116012394;Vodka;Alcoholic Beverages;8b46a710-0ddf-44e3-b3e9-7e7d1f7b8e17;Chopin
+List(1.75 lt);0089016008194;089016008194;Vodka;Alcoholic Beverages;8a0afce8-62f7-4a72-bafe-0f7e5115ec63;Sobieski
+List(750 ml);0835229007307;835229007307;Vodka;Alcoholic Beverages;a70750a2-8b3e-4aac-b98a-99e4ab97a871;Level
+List(375 ml);0088004010461;088004010461;Vodka;Alcoholic Beverages;0ae21452-64ee-4acf-a108-347bdf50d85b;Nikolai
+List(1.75 lt);0087116069732;087116069732;Vodka;Alcoholic Beverages;28e642b2-c1b1-4a37-83bc-7423c556cad7;Belvedere
+List(375 ml);0089016008231;089016008231;Vodka;Alcoholic Beverages;74332caf-0b7c-452c-929d-6a95fedbf9c4;Sobieski
+List(750 ml);0836409000149;836409000149;Vodka;Alcoholic Beverages;1eec4bd1-1bfc-4e07-87db-c75eada2212a;Marani
+List(750 ml);0681425031000;681425031000;Vodka;Alcoholic Beverages;25c6251b-a6e0-4793-9b1e-f792945fa865;Xo
+List(750 ml);0897354001001;897354001001;Vodka;Alcoholic Beverages;bbb0e689-cd7d-4652-94e5-30632fe1d801;Qino One
+List(750 ml);0082928114151;082928114151;Vodka;Alcoholic Beverages;8f4453d8-c6a9-4074-842d-28263c00a931;Barton
+List(375 ml);0088352119649;088352119649;Vodka;Alcoholic Beverages;53da4b00-d01c-43ec-b9dd-e4c013c1b932;Tvarscki
+List(200 ml);0088352110745;088352110745;Vodka;Alcoholic Beverages;034cce74-6feb-4682-a1b7-1970bcaaa970;Country Club
+List(750 ml);0663881000004;663881000004;Vodka;Alcoholic Beverages;9cb0a286-7fc3-4c60-8b2d-a9d73a76ea41;Boru
+List(1.75 lt);0089016008491;089016008491;Vodka;Alcoholic Beverages;31af20f8-694b-406f-bb21-801e0707b740;Sobieski
+List(750 ml);0617768121757;617768121757;Vodka;Alcoholic Beverages;ad2f9cbd-3240-4271-9e07-0c88ecba177d;Svedka
+List(750 ml);0086395450002;086395450002;Vodka;Alcoholic Beverages;176a2d83-df91-443f-b55e-9450627be578;Kissui
+List(750 ml);0662263007525;662263007525;Vodka;Alcoholic Beverages;036b3788-9d05-4ca5-a331-c71ae5a95988;Roberto Cavalli
+List(1.75 lt);0089708776226;089708776226;Vodka;Alcoholic Beverages;5aedc28c-2614-431c-86cc-a4a53ab1527d;Three Olives
+List(1.75 lt);0080686160106;080686160106;Vodka;Alcoholic Beverages;1d482f58-1c9c-45d4-bea1-1032a2ad6941;Kamchatka
+List(1.75 lt);0080432402412;080432402412;Vodka;Alcoholic Beverages;8b6f4767-de62-41a0-b133-b7b8ee66787a;Seagram's
+List(200 ml);0089016008248;089016008248;Vodka;Alcoholic Beverages;62021807-c714-4259-bfc7-0ea30739a4e6;Sobieski
+List(750 ml);0856075000113;856075000113;Vodka;Alcoholic Beverages;4438ba82-6a21-4061-a2f9-6e9ec6e589c0;Effen
+List(750 ml);0088352109602;088352109602;Vodka;Alcoholic Beverages;56455d8b-6e6e-468b-a1fa-7acb0cabaa0e;Everclear
+List(750 ml);0087000003583;087000003583;Vodka;Alcoholic Beverages;27622ff2-3c95-4f22-a098-17789db92703;Gordon
+List(200 ml);0088004010478;088004010478;Vodka;Alcoholic Beverages;7be9cc4a-a957-44c3-a69e-5e7dae65f3c9;Nikolai
+List(750 ml);0088352110721;088352110721;Vodka;Alcoholic Beverages;373e27ea-897a-44d5-8ea0-b99458e13935;Country Club
+List(750 ml);0086095750112;086095750112;Vodka;Alcoholic Beverages;7f1dcf13-9dfb-44ec-a5d6-5440a210b75e;Charbay
+List(1 lt);0088600000118;088600000118;Vodka;Alcoholic Beverages;5f591c7b-eac0-46a4-a229-f82902a61d33;Gordon
+List(1 lt);0085156610419;085156610419;Vodka;Alcoholic Beverages;1b1f760c-8a66-4ca7-b194-3b9d13636955;Ketelone
+List(750 ml);0858513001027;858513001027;Vodka;Alcoholic Beverages;5e503833-2c8e-433b-9821-fdf4d29e1e15;Ruskova Select
+List(750 ml);0681425059011;681425059011;Vodka;Alcoholic Beverages;31d136ee-da84-4b61-9f58-e7010396958c;X Rated
+List(1.75 lt);0088004012724;088004012724;Vodka;Alcoholic Beverages;99c87188-5640-4d52-b989-c89b1b5edd9c;Platinum 7x
+List(750 ml);0728704075000;728704075000;Vodka;Alcoholic Beverages;d101e56e-cd66-4b48-ae55-d84cc0fd23c5;Viking Fjord
+List(750 ml);0088352123189;088352123189;Vodka;Alcoholic Beverages;0b9df4bf-30ea-4ebe-8b1b-c52535c9c0a1;Pearl
+List(1 lt);0081128034160;081128034160;Vodka Grapefruit Fusion 1L;Alcoholic Beverages;fefbccce-62b0-4f55-8a9d-d7645020c660;Finlandia Vodka
+List(750 ml);0085592133756;085592133756;360 Vodka Vodka;Alcoholic Beverages;2d70f11a-3f3a-4339-a423-497b1a0ab091;Earth Friendly
+List(700 ml);0835229006300;835229006300;Vanilla Vodka;Alcoholic Beverages;27297030-b5d0-4c10-a5f1-9e585c0c0b1a;Absolut
+List(750 ml);0617768111758;617768111758;Vodka Imported Swedish;Alcoholic Beverages;1a0b95d1-b841-4a52-9010-53e0cae88910;Svedka
+List(750 ml);0617768122754;617768122754;Vodka Clementine;Alcoholic Beverages;94c382ed-0e4d-4315-936f-d6309ff887a3;Svedka
+List(750 ml);0082000000068;082000000068;Vodka Triple Distilled;Alcoholic Beverages;2fd1653e-aa7b-416b-8d51-2cceab8b4b2e;Smirnoff
+List(750 ml);0085156515417;085156515417;Imported Vodka;Alcoholic Beverages;718a16f1-c676-484f-a3a6-da99d807330a;Ketelone
+List(1.75 lt);0721059017503;721059017503;Vodka 1.75 L;Alcoholic Beverages;06da91c0-fa94-4ac4-99d1-fb9777606877;Skyy
+List(1.75 lt);0835229000605;835229000605;Vodka Regular 1.75 L;Alcoholic Beverages;60d16a8e-a19a-48af-bbf4-4b3d8f95c9f8;Absolut
+List(1.75 lt);0082000109693;082000109693;Premium Vodka;Alcoholic Beverages;767df070-f72e-40b5-99a4-0b1d5f0ee322;Popov
+List(750 ml);0617768125755;617768125755;Vodka. Lemon Flavored Citron;Alcoholic Beverages;1151ede4-79ed-4de3-a9c9-421ea3c082f2;Svedka
+List(750 ml);0088076161863;088076161863;Vodka Snap Frost 5 Times Distilled;Alcoholic Beverages;1e741446-b545-4d93-a170-0aca24d38b73;Ciroc
+List(750 ml);0721059007504;721059007504;Vodka 1.75 L;Alcoholic Beverages;200f489d-d63e-461c-a3d7-a6a9a8b6a70e;Skyy
+List(700 ml);0835229001428;835229001428;Mango Vodka;Alcoholic Beverages;eba246dd-6a77-4421-bac7-0f0fd6f559e7;Absolut
+List(750 ml);0835229000308;835229000308;Vodka 80 Proof;Alcoholic Beverages;2859591f-dc22-40f7-92d6-653f9b1ac4ed;Absolut
+List(750 ml);0039383007863;039383007863;Crop Organic Artisanal Grain Vodka Rated 91We;Alcoholic Beverages;4450328b-0dc0-4b73-a5e4-18df1c257e50;Crop Harvest Earth
+List(750 ml);0089708465427;089708465427;French Vodka;Alcoholic Beverages;2f762a3b-03bb-41ae-866a-939ef8c70ffe;Pinnacle
+List(750 ml);0083089560009;083089560009;L'Orange Vodka;Alcoholic Beverages;8742b562-33e0-4adb-9c3b-31a915a79022;Grey Goose
+List(1.75 lt);0835229002609;835229002609;Vodka Mandrin;Alcoholic Beverages;614cdb89-47b7-4549-ae0c-62a24bd47b08;Absolut
+List(59.2);0082000727606;082000727606;Vodka R Red Label 1.75 L;Alcoholic Beverages;10665c27-c98d-4ebb-a280-20bc885b6443;Smirnoff
+List(750 ml);0027724437509;027724437509;Hangar One Mandarin Blossom Vodka;Alcoholic Beverages;90104fc8-c494-4046-9b45-60131753beaf;Hangar One
+List(1.75 lt);0082000002437;082000002437;Vodka Sweet Tea Flavored & Lemonade Half & Half;Alcoholic Beverages;b53abca9-d51f-4322-9fd9-1f4f72b4df71;Jeremiah Weed
+List(750 ml);0027724417501;027724417501;Hangar One Citron Vodka;Alcoholic Beverages;51811743-8f23-4574-8b02-555c3eb99053;Hangar One
+List(1.75 lt);0835229001602;835229001602;Vodka Citron;Alcoholic Beverages;36ec0c10-9d2a-4045-aa1a-dabc10b027ef;Absolut
+List(1.75 lt);0617768111178;617768111178;Vodka Imported Swedish;Alcoholic Beverages;7d351347-bba8-433b-b4e0-fe0c7f8a05d9;Svedka
+List(1.75 lt);0082000732938;082000732938;Flavored Vodka;Alcoholic Beverages;102dd7ca-6a12-48de-9bcd-47105454260c;Smirnoff
+List(750 ml);0633824208040;633824208040;Vodka Coffee Flavored Double Espresso;Alcoholic Beverages;824efab1-a5ff-4c86-94d8-36a891379162;Vincent Van Gogh
+List(1.75 lt);0080686045120;080686045120;Genuine Vodka;Alcoholic Beverages;11f5d71c-c416-4b96-8f25-f5962738ca6b;Wolfschmidt
+List(750 ml);0835229008304;835229008304;Vodka Raspberry;Alcoholic Beverages;6346fed0-d8d7-40f3-8be6-fc2750602970;Absolut
+List(750 ml);0835229001336;835229001336;Vodka Pears;Alcoholic Beverages;a848b4b9-8f1c-4367-8092-accb113950f3;Absolut
+List(750 ml);0633824929532;633824929532;Vodka Pomegranate Flavored;Alcoholic Beverages;9335905d-828e-4d79-93a2-a016464f8c46;Vincent Van Gogh
+List(33.8);0082000000051;082000000051;Vodka Triple Distilled Premium;Alcoholic Beverages;14e596ff-f3db-44b0-be9b-8d31c1e1b4d4;Smirnoff
+List(1.75 lt);0082000731511;082000731511;Vodka Twist Of Black Cherry;Alcoholic Beverages;793eb1d0-bbe6-430e-ab1c-c5901336837e;Smirnoff
+List(700 ml);0661552750012;661552750012;Premium Black Vodka;Alcoholic Beverages;0c2c1f2a-3dc9-46e7-a9c3-6e0307e65b72;Blavod
+List(25.4);0082000002024;082000002024;Vodka Sweet Tea Flavored Southern Style;Alcoholic Beverages;12014f66-4673-4fa4-b08f-077d6728852c;Jeremiah Weed
+List(750 ml);0089708460705;089708460705;Imitation Whipped Creme Flavored Vodka;Alcoholic Beverages;8928d0cb-69e2-4cb8-be07-65501bb29e86;Pinnacle
+List(750 ml);0835229001305;835229001305;Vodka Citron;Alcoholic Beverages;32423fa3-fdd9-4d4e-a27b-220d18a11fc2;Absolut
+List(1.75 lt);0085156017508;085156017508;Vodka Citrus Flavored;Alcoholic Beverages;dffd4e74-872c-460c-b01b-31e94eca561b;Ketelone
+List(750 ml);0835229004306;835229004306;Vodka Peppar;Alcoholic Beverages;b886263a-1ba5-425d-90c7-657e8cbef0f0;Absolut
+List(750 ml);0089708776424;089708776424;Vodka Imported;Alcoholic Beverages;933b718e-41c3-4db1-815a-8e58fd15a704;Three Olives
+List(750 ml);0089708525428;089708525428;Vodka Chocolate Flavored;Alcoholic Beverages;889cf4f1-0387-486b-997c-15ccd4c92c0c;Three Olives
+List(1.75 lt);0081128074050;081128074050;Vodka Of;Alcoholic Beverages;4635048a-4477-4103-aae3-c6d7f7d30add;Finlandia
+List(750 ml);0082000732914;082000732914;Flavored Vodka;Alcoholic Beverages;ab0f38f6-4d5e-418a-932a-194b6675f127;Smirnoff
+List(750 ml);0087116014879;087116014879;Flavored Vodka Pink Lemonade Flavored;Alcoholic Beverages;0517119e-0cdb-4aa8-a2dd-105c20fedc1e;UV
+List(750 ml);0027724407502;027724407502;Hangar One Straight Grain Vodka Us Rated 90-95;Alcoholic Beverages;cb8ac431-6c12-42ad-bf48-fa58e79d4f84;Hangar One
+List(1.75 lt);0082000740452;082000740452;Vodka Triple Distilled Twist Of White Grape;Alcoholic Beverages;9c047c9b-237a-4f35-b840-4206e4143a5b;Smirnoff
+List(750 ml);0080480282042;080480282042;Vodka Le Citron;Alcoholic Beverages;b8fd261e-c16d-41a8-a37b-4b2b19d379f6;Grey Goose
+List(750 ml);0082000737292;082000737292;Vodka Mojito;Alcoholic Beverages;792bc1e1-ad3e-4900-b0ab-0cf75a77204d;Smirnoff
+List(750 ml);0080480281038;080480281038;Vodka L'Orange;Alcoholic Beverages;5dac622c-c097-4dd9-a9aa-e8f357853167;Grey Goose
+List(750 ml);0617768123751;617768123751;Vanilla Vodka 1 L;Alcoholic Beverages;956c2df2-378f-484a-a6bb-a7e518153224;Svedka
+List(1.75 lt);0082000105701;082000105701;Vodka Triple Distilled Premium;Alcoholic Beverages;9ce72f53-934f-48fb-8a4f-1d73076c2092;Smirnoff
+List(750 ml);0087116014480;087116014480;Vodka Raspberry Flavored Blue;Alcoholic Beverages;092e6081-7bad-4717-b29e-ec70bfda4d05;UV
+List(750 ml);0088076172333;088076172333;Sparkling Liqueur;Alcoholic Beverages;6fa4b553-741f-47b6-88bf-bafd4867b23f;Nuvo
+List(750 ml);0082000002208;082000002208;Vodka & Bourbon Whiskey;Alcoholic Beverages;fa6fb59b-5b46-4351-a0e4-c7299c9dd266;Jeremiah Weed
+List(1 lt);0082000002215;082000002215;Vodka & Bourbon Whiskey;Alcoholic Beverages;cb08242b-bfe4-4bfd-90bc-a99e8c0cdb97;Jeremiah Weed

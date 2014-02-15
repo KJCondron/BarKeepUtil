@@ -1,0 +1,46 @@
+List(700 ml);0083664990436;083664990436;Gin;Alcoholic Beverages;169e7611-36f0-4a72-ac3d-e8d40bad3365;Hendrick's
+List(750 ml);0695521103011;695521103011;Gin;Alcoholic Beverages;5c906857-0b9e-44c2-800e-0c894f1c7105;Citadelle
+List(1.75 lt);0080432401262;080432401262;Gin Extra Dry;Alcoholic Beverages;49335af1-6c0a-4894-a0ca-bcf20d673de9;Seagram's
+List(1.75 lt);0088600000002;088600000002;London Dry Gin;Alcoholic Beverages;f73798b3-4260-4a77-a043-213b21bf5297;Gordon
+List(750 ml);0088110110307;088110110307;Imported London Dry Gin;Alcoholic Beverages;e718a850-0cc3-43b8-b593-35a1d205de13;Tanqueray
+List(700 ml);0089540333496;089540333496;London Dry Gin;Alcoholic Beverages;9aaa82ac-0ddf-40ed-b3fe-3217ca75956a;Beefeater
+List(750 ml);0080432401231;080432401231;Extra Dry Gin;Alcoholic Beverages;83aff41e-182e-4a9a-be8d-1c6755650f41;Seagram's
+List(1.75 lt);0088110110505;088110110505;London Dry Gin;Alcoholic Beverages;edc4f5fa-402c-4d30-a94a-284f7a8ff2b7;Tanqueray
+List(1.75 lt);0082928210211;082928210211;Extra Dry Gin;Alcoholic Beverages;027229e7-ef77-47be-bff0-efc992024d87;Fleischman
+List(750 ml);0088600000026;088600000026;London Dry Gin;Alcoholic Beverages;d6b67ef5-07e7-4d41-8f7b-88d3c7167a25;Gordon
+List(750 ml);0088110158606;088110158606;Imported Distilled Gin;Alcoholic Beverages;a574b601-17f7-4ab8-9d8c-16ed79264e7e;Tanqueray
+List(750 ml);0080480301026;080480301026;Dry Gin London;Alcoholic Beverages;b6961dab-c285-4c1a-ac47-701722366e43;Bombay Sapphire
+List(1.75 lt);0085000014301;085000014301;Gin Straight No. 485;Alcoholic Beverages;85c5cf9f-e09c-4474-b9f4-455d7c29e126;New Amsterdam
+List(700 ml);0652080000083;652080000083;English Gin;Alcoholic Beverages;0f533efc-6e53-4758-89a7-6e3d821bd758;Plymouth
+List(1.75 ml);0088076168664;088076168664;Distilled Gin;Alcoholic Beverages;559defea-bf8c-4704-9d98-e62c8c893227;Tanqueray
+List(1.75 lt);0080686122128;080686122128;Gin Distilled London Dry;Alcoholic Beverages;aef9acd8-74b3-4def-a752-4cac6da6d14c;Gilbey's
+List(750 ml);0088352110776;088352110776;Gin London Dry;Alcoholic Beverages;135c1d44-0eda-48f0-9637-973590fce8f4;Country Club
+List(750 ml);0087000003576;087000003576;London Dry Gin;Alcoholic Beverages;c6b57d14-c2e4-49b8-827f-3c480bec44da;Gordon
+List(375 ml);0088352110783;088352110783;Gin London Dry;Alcoholic Beverages;b4349178-9de8-4ccf-b99d-2c1dd85f2e42;Country Club
+List(1.75 lt);0087000202252;087000202252;Grapefruit Twisted Gin;Alcoholic Beverages;648bd873-02ed-429c-8432-ee06d89db84f;Seagram's
+List(750 ml);0089708007504;089708007504;London Dry Gin;Alcoholic Beverages;39fade32-441e-4e4e-8848-adaf614ace59;Quintessential
+List(59.2);0080480301002;080480301002;Dry Gin London;Alcoholic Beverages;593525c8-e13e-4c15-95fa-048224c86444;Bombay Sapphire
+List(1.75 lt);0085676403171;085676403171;London Dry Gin;Alcoholic Beverages;d10172ff-4c8e-4548-9a1b-6874c0fe2545;Skol
+List(750 ml);0080686360407;080686360407;Sloe Gin;Alcoholic Beverages;f091ebd7-55a2-438a-b701-2148f261bbf8;Dekuyper
+List(750 ml);0089708469425;089708469425;Dry Gin London;Alcoholic Beverages;153d3480-4c77-48e1-8a70-2ce620cb4d17;Pinnacle
+List(1 lt);0087000004009;087000004009;British Gin;Alcoholic Beverages;2ba92aaf-beee-49ae-bd46-93d69fdb27e1;Boodles
+List(750 ml);0080432401248;080432401248;Gin Extra Dry;Alcoholic Beverages;5774a1d4-6f37-45ef-b3ab-40af570d9908;Seagram's
+List(750 ml);0896461000013;896461000013;Dry Gin Imported;Alcoholic Beverages;21789b2d-ebca-4fb9-aeb5-a01879689adb;no brand()
+List(750 ml);0080432103753;080432103753;Gin Apple Twisted;Alcoholic Beverages;0d268702-598e-46c4-95c4-83a5d49f0e43;Seagram's
+List(1.75 lt);0087512121164;087512121164;Distilled Gin;Alcoholic Beverages;6f3d2a40-00e1-4f62-aa20-cec3b38c3106;Booth's
+List(750 ml);0089708469432;089708469432;Dry Gin London;Alcoholic Beverages;6a3fd3ab-0be1-42fe-a9ee-b5f6c4e00cfa;Pinnacle
+List(750 ml);0852360001001;852360001001;Gin No. 6;Alcoholic Beverages;1c207205-57ec-4f2e-b96d-d02309aeebe6;North Star
+List(200 ml);0088352119632;088352119632;Gin London Dry;Alcoholic Beverages;0238e200-ca37-410f-89c3-4b26777e3460;Tvarscki
+List(1 lt);0088110158590;088110158590;Imported Distilled Gin;Alcoholic Beverages;050b3ec9-abc8-4ea4-902c-d998a6fdb102;Tanqueray
+List(750 ml);0858198001015;858198001015;Gin Dry America;Alcoholic Beverages;a86c656a-f9a9-47f2-b051-9a7bbccfa025;Bluecoat
+List(750 ml);0080432102039;080432102039;Gin 102 Proof;Alcoholic Beverages;32b3897a-76db-4f00-b99b-aa4d7b195675;Seagram's
+List(25.4);0082928210242;082928210242;Extra Dry Gin;Alcoholic Beverages;3952f07f-6019-4c68-b33e-71a65be5032a;Fleischman
+List(750 ml);0720815960435;720815960435;Gin Mint Flavored;Alcoholic Beverages;a852a09a-ea97-47e2-b723-5f4662393a13;Bafferts
+List(1 lt);0088110110406;088110110406;London Dry Gin;Alcoholic Beverages;06d0a430-349a-414a-9e5d-4f39a4dee214;Tanqueray
+List(750 ml);0088004060749;088004060749;Gin Distilled London Dry Extra Dry;Alcoholic Beverages;06da6e0e-989d-440d-aaf5-8a3b6de13f10;Nikolai
+List(1 lt);0080686360209;080686360209;Sloe Gin;Alcoholic Beverages;0d7f8c4e-a85a-491b-b936-8bee2beff017;Dekuyper
+List(1.75 lt);0096749200306;096749200306;Distilled London Dry Gin;Alcoholic Beverages;f29c5dfe-3c50-44f2-adbf-af0446bc023a;Burnett's
+List(750);0085000014318;085000014318;Gin Straight No. 485;Alcoholic Beverages;4a03f656-830c-481a-a9e3-e16be3d1eb32;New Amsterdam
+List(200 ml);0088352110790;088352110790;Gin London Dry;Alcoholic Beverages;6c0bb679-97d6-46ad-99ad-8c14d70d13eb;Country Club
+List(750 ml);0080686360407;080686360407;Sloe Gin;Alcoholic Beverages;f091ebd7-55a2-438a-b701-2148f261bbf8;Dekuyper
+List(1 lt);0080686360209;080686360209;Sloe Gin;Alcoholic Beverages;0d7f8c4e-a85a-491b-b936-8bee2beff017;Dekuyper

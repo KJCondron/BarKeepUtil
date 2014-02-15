@@ -1,0 +1,105 @@
+List(1 lt);0088544018941;088544018941;Whiskey Liqueur;Alcoholic Beverages;9fb14b57-b75a-4316-baa7-98106764ece6;Southern Comfort
+List(500 ml);0088004144722;088004144722;Liqueur Blended With Cinnamon & Whisky;Alcoholic Beverages;5b4ae781-abd5-40f2-8c3a-3040be05ce9b;Fireball
+List(1.75 lt);0089540122694;089540122694;Liqueur;Alcoholic Beverages;1991f46b-7cad-4087-8f20-8bce34ab741b;Kahlua
+List(750 ml);0736040011064;736040011064;Liqueur;Alcoholic Beverages;61a86397-a7f0-4ade-8dcf-4196f74679f5;Hpnotiq
+List(500 ml);0089744329615;089744329615;Liqueur;Alcoholic Beverages;cc58d56e-309b-4111-a459-b2d2788e0f54;Chartreuse
+List(750 ml);0088544019054;088544019054;Liqueur;Alcoholic Beverages;b5a32650-0fc7-4642-8090-efcd50820152;Southern Comfort
+List(750 ml);0083664371341;083664371341;Liqueur;Alcoholic Beverages;aa599919-5bc5-4e49-9799-ad14d2a8082f;Frangelico
+List(750 ml);0089540122717;089540122717;Liqueur;Alcoholic Beverages;03ec1898-1352-4f0a-8b4e-bed52aae8446;Kahlua
+List(750 ml);0083300034531;083300034531;Liqueur;Alcoholic Beverages;ec27c791-5f60-4ec5-9204-080635c8008b;Chambord
+List(750 ml);0080432291672;080432291672;Liqueur;Alcoholic Beverages;42ee30af-d170-4f2c-9eb0-b4ce19ab6ddd;Pernod
+List(750 ml);0087236210243;087236210243;Liqueur;Alcoholic Beverages;1cc1a6cd-db99-4516-ba1b-6cf2a00fb2d0;Metaxa Ouzo
+List(1.75 lt);0083089660174;083089660174;Liqueur;Alcoholic Beverages;e21447a6-5eca-4be6-bd34-e536e57c22e8;Jagermeister
+List(750 ml);0088004143541;088004143541;Liqueur;Alcoholic Beverages;1fff2238-c65b-4350-a4de-c15d2e8e79ba;Pimm's
+List(750 ml);0080480545406;080480545406;Liqueur;Alcoholic Beverages;61456c63-7903-4804-9d1c-62315078ac92;Dom B & B
+List(750 ml);0080480302023;080480302023;Liqueur;Alcoholic Beverages;e2a4589e-c3af-4c94-8f16-014a4c0b7ddc;The Drambuie Liqueur
+List(200 ml);0088544019160;088544019160;Liqueur;Alcoholic Beverages;9491b71c-d76f-4a63-b397-4617e57bdac6;Southern Comfort
+List(375 ml);0087236565206;087236565206;Liqueur;Alcoholic Beverages;c577211d-f014-4807-b049-aee5b2bbaa94;Cointreau
+List(200 ml);0088004144906;088004144906;Liqueur;Alcoholic Beverages;60af2063-fc22-4da8-823b-4afc4eec36e8;Dr. Mcgillicuddy
+List(25.4 fl oz; 750 ml);0089540493398;089540493398;Liqueur;Alcoholic Beverages;8982ba71-5347-4190-92ef-d2c28c9d918a;Kahlua
+List(750 ml);0088544018156;088544018156;Liqueur;Alcoholic Beverages;82acc9b9-0f96-4174-bda9-aa0156bb4bdb;Southern Comfort
+List(375 ml);0088004002213;088004002213;Liqueur;Alcoholic Beverages;afb1948f-0e0f-43b6-9f61-8ad6c00815ca;Dr. Mcgillicuddy
+List(200 ml);0088004148256;088004148256;Liqueur;Alcoholic Beverages;dad56ba7-1e73-4e53-9257-a26aa3513260;Dr. Mcgillicuddy
+List(750 ml);0080686281405;080686281405;Liqueur;Alcoholic Beverages;f35ab48f-d1a9-4498-9981-ca13673afdd9;After Shock
+List(750 ml);0084692203048;084692203048;Liqueur;Alcoholic Beverages;45ce2d48-9e69-4e45-9d06-3034275dbbf5;Cafe Boheme
+List(750 ml);0089708202213;089708202213;Liqueur;Alcoholic Beverages;8a19e123-7d99-4087-b7cd-a2b03b9c3e06;Chateau
+List(1 lt);0086767810045;086767810045;Liqueur;Alcoholic Beverages;5d319dd0-86e2-4dcc-a34d-6b271964daf9;Black Haus
+List(25.4);0082928399855;082928399855;Liqueur;Alcoholic Beverages;a7d5d14f-1c48-46eb-ba9a-bbd3c7060a4f;Sambuca Di Amore
+List(375 ml);0080480302030;080480302030;Liqueur;Alcoholic Beverages;2524ee19-317e-4d73-933c-cbed716b8844;Drambuie
+List(1 lt);0088352117720;088352117720;Liqueur;Alcoholic Beverages;56db7200-e934-42fa-b62d-28970b8819fa;Arrow
+List(750 ml);0088004000202;088004000202;Liqueur;Alcoholic Beverages;196686b4-983e-4422-80bf-8d202570c797;Dr. Mcgillicuddy
+List(1 lt);0088076170964;088076170964;Liqueur;Alcoholic Beverages;fa1da549-f0d4-4504-98a2-417028321b9d;Zwack Liqueur
+List(200 ml);0088004144074;088004144074;Liqueur;Alcoholic Beverages;458d230d-3207-4ffb-b871-b7d3e97d984e;Dr. Mcgillicuddy
+List(1 lt);0088352117805;088352117805;Liqueur;Alcoholic Beverages;cfc53f51-db09-44a5-9e4d-052c7688a861;Arrow
+List(200 ml);0088004002220;088004002220;Liqueur;Alcoholic Beverages;bd3a1ebe-b50e-490d-940e-1514885d746c;Dr. Mcgillicuddy
+List(750 ml);0088004002206;088004002206;Liqueur;Alcoholic Beverages;d56a60b1-a202-4c6c-baf9-df4e319219a7;Dr. Mcgillicuddy
+List(1 lt);0086767703125;086767703125;Liqueur;Alcoholic Beverages;ab799292-9c40-433b-8464-9694db020480;Rumple Minze
+List(750 ml);0089540433646;089540433646;Liqueur;Alcoholic Beverages;4dbb263b-b3fc-4cbb-a989-7e3722e4bf20;Hiram Walker
+List(750 ml);0086767703132;086767703132;Liqueur;Alcoholic Beverages;784b1ebb-5279-42a0-a0eb-789a24dded04;Rumple Minze
+List(750 ml);0080480555405;080480555405;Liqueur;Alcoholic Beverages;5f433bf4-e267-4daa-8ce8-e15c52152bdf;Benedictine
+List(750 ml);0096749088041;096749088041;Liqueur;Alcoholic Beverages;3aaf3221-e8db-45de-ac34-a9333f16db32;Cynar
+List(1 lt);0086767703149;086767703149;Liqueur;Alcoholic Beverages;d9f235b4-3fcf-4bcb-a1b9-51f362ae3b8a;Rumple Minze
+List(375 ml);0087000003125;087000003125;Liqueur;Alcoholic Beverages;7a9ee857-2af2-4ed9-8b51-1e385a626dc8;Godiva
+List(750 ml);0088076168909;088076168909;Liqueur;Alcoholic Beverages;fd03fd2a-042b-4922-865f-954336a8b42a;Zwack Liqueur
+List(375 ml);0086767520098;086767520098;Liqueur;Alcoholic Beverages;09f3c613-3f6c-4a88-9b9b-5870d9fe59ab;Rumple Minze
+List(375 ml);0088004144067;088004144067;Liqueur;Alcoholic Beverages;1d84946b-86e1-475b-a4bb-de84ec9915fe;Dr. Mcgillicuddy
+List(375 ml);0088544019139;088544019139;Liqueur;Alcoholic Beverages;fa845bd1-1e88-4adc-912d-598adeb141b0;Southern Comfort
+List(750 ml);0086767810069;086767810069;Liqueur;Alcoholic Beverages;f960398c-1ac5-4e2b-a656-de5308becff7;Black Haus
+List(375 ml);0080480545604;080480545604;Liqueur;Alcoholic Beverages;db305c11-3ae5-4c7f-a15b-e26ba3933fcb;Dom B & B
+List(750 ml);0087000002173;087000002173;Liqueur;Alcoholic Beverages;09ded985-5f0e-4a1b-9dd6-a0ed31d091a7;Godiva
+List(750 ml);0096749180097;096749180097;Liqueur;Alcoholic Beverages;700209e6-c425-45a4-b9ff-08bc0a7eec68;Amarito
+List(750 ml);0088544014318;088544014318;Liqueur;Alcoholic Beverages;662ed391-cdff-401c-af56-4d3925a3f762;Southern Comfort
+List(1.75 lt);0089000547814;089000547814;Liqueur;Alcoholic Beverages;6b62c128-749a-4d9e-ada2-9894f7020687;Chi-Chi's
+List(1 lt);0086767500045;086767500045;Liqueur;Alcoholic Beverages;2bd78040-5048-4b64-bd8b-af605bd353a5;Goldschlager
+List(750 ml);0087000001268;087000001268;Liqueur;Alcoholic Beverages;9d8ef7b7-41d8-4ec9-98c7-be76df62ebef;Godiva
+List(750 ml);0084105307509;084105307509;Liqueur;Alcoholic Beverages;b51be69a-1258-4132-8b41-5e01b1d1a38f;Fernet-branca
+List(25.4);0082928399824;082928399824;Liqueur;Alcoholic Beverages;af127d52-5a3f-4027-a9d7-a30f68931da0;Amaretto Di Amore
+List(1 lt);0083300044769;083300044769;Liqueur;Alcoholic Beverages;dc86539f-68c1-43bf-b46c-4d62a1aaf65e;Tuaca
+List(750 ml);0896459002029;896459002029;Travis Hasse's Apple Pie Liqueur;Alcoholic Beverages;a7db285b-ea70-4433-9966-f7578a7922f2;Travis Hasse's Liqueur
+List(750 ml; 0.75 lt);0086767210067;086767210067;Irish Cream Liqueur;Alcoholic Beverages;b01e839b-ee60-4f97-9f11-27e9ee3238cc;Bailey
+List(500 ml);0088110931032;088110931032;Cordon Rouge Liqueur;Alcoholic Beverages;52bf5c09-6afe-46ba-829f-eddb637c2c40;Grand Marnier
+List(750 ml);0721059517508;721059517508;Liqueur Irish Cream;Alcoholic Beverages;f4e95c56-6566-4760-b019-9b0b24fde695;Carolans
+List(750 ml);0721733000043;721733000043;Orange Liqueur;Alcoholic Beverages;c77dd4ae-1d68-4b36-9b72-d235b954f6da;Patron
+List(750 ml);0086767500069;086767500069;Cinnamon Schnapps Liqueur;Alcoholic Beverages;d17b5d67-7c84-4fea-a0b0-723f4be6b24a;Goldschlager
+List(2 oz; 56.7 g);0077243900534;077243900534;Frangelico Hazelnut Liqueur;Alcoholic Beverages;2adab794-156b-4adb-a1b1-1772ca5c9b84;Fragelico
+List(750 ml);0088076172333;088076172333;Sparkling Liqueur;Alcoholic Beverages;6fa4b553-741f-47b6-88bf-bafd4867b23f;Nuvo
+List(700 ml);0083300048729;083300048729;Fruit Cream Liqueur;Alcoholic Beverages;0fcc3665-1da9-489a-b42c-ba9bfe6754f3;Amarula
+List(750 ml);0050037014501;050037014501;Italian Liqueur;Alcoholic Beverages;d57e32fd-bab1-42fc-8665-a855f3b6ab48;Disaronno Originale
+List(750 ml);0087000005518;087000005518;White Chocolate Liqueur;Alcoholic Beverages;5d149290-ad93-429d-a436-f980b2f30484;Godiva
+List(500 ml);0088004144722;088004144722;Liqueur Blended With Cinnamon & Whisky;Alcoholic Beverages;5b4ae781-abd5-40f2-8c3a-3040be05ce9b;Fireball
+List(750 ml);0088352118765;088352118765;Curacao Liqueur;Alcoholic Beverages;b0d3fa1f-1fac-4383-bccb-249df591f2cb;Arrow
+List(750 ml);0086767701763;086767701763;Irish Cream Liqueur;Alcoholic Beverages;60eb6b78-6635-46a4-9e11-7535c96bb3ab;Bailey
+List(1.75 lt);0721059511759;721059511759;Liqueur Irish Cream;Alcoholic Beverages;b22999d8-7249-4439-acad-eeb8a13fd6b3;Carolans
+List(750 ml);0080660776057;080660776057;Lemon Liqueur;Alcoholic Beverages;223f9480-681c-48c0-9677-785dca17af1a;Caravella
+List(1 lt);0080686319207;080686319207;Dekuyper Buttershots Butterscotch Schnapps Liqueur 1L;Alcoholic Beverages;6651afff-4fde-414f-9b46-5306d0979009;Dekuyper
+List(750 ml);0083300044776;083300044776;Tuscany Italiano Liqueur;Alcoholic Beverages;5d6aa863-3ca8-4ff7-bd01-2147bb833b28;Tuaca
+List(750 ml);0087236565107;087236565107;Orange Liqueur;Alcoholic Beverages;6172c4f4-2a3a-4ad6-8b34-0f48c2d6e2aa;Cointreau
+List(750 ml);0080368707506;080368707506;White Chocolate Liqueur;Alcoholic Beverages;a25adc1c-37de-49f3-b9dd-7693d3e2302f;Mozart
+List(500 ml);0087236050313;087236050313;Liqueur 1896;Alcoholic Beverages;61f65278-acfc-42d2-873a-04868a1b8ce7;Galliano
+List(750 ml);0086767220066;086767220066;Liquore Classico Liqueur Extra;Alcoholic Beverages;4ed939d6-b2d1-4829-85dd-b420838be999;Romana
+List(700 ml);0667368285496;667368285496;Toffee Liqueur;Alcoholic Beverages;4f4de60c-c9c3-4438-b3de-5ad9262c86f6;Dooley's
+List(1 lt; 1000 ml);0086767210043;086767210043;Irish Cream Liqueur;Alcoholic Beverages;275bc084-8c06-4048-a566-7d82ae1c7bbc;Bailey
+List(1.75 ltr);0085000004050;085000004050;Fine Brandy And Cream Liqueur;Alcoholic Beverages;06469f04-418f-460b-868d-bb15bced78b9;E&j Distillers
+List(375 ml);0083300034524;083300034524;Liqueur Royale Deluxe;Alcoholic Beverages;c17a07d9-00f0-43ff-8cd2-3b9b03aada7c;Chambord
+List(1 lt);0088544018941;088544018941;Whiskey Liqueur;Alcoholic Beverages;9fb14b57-b75a-4316-baa7-98106764ece6;Southern Comfort
+List(750 ml);0089540493435;089540493435;Liqueur Hazelnut;Alcoholic Beverages;cf20fc13-4b53-4792-96c6-b1b4046edaad;Kahlua
+List(750 ml);0700118111000;700118111000;Italian Liqueur;Alcoholic Beverages;66cf4560-22c4-4497-9609-d06cd8337f9a;Amaro Lucano
+List(750 ml);0080660620053;080660620053;Schnapps Liqueur;Alcoholic Beverages;d1461c84-740b-42a5-9508-704c4edc87ee;99 Bananas
+List(375 ml);0736040506898;736040506898;Sparkling Liqueur;Alcoholic Beverages;fb61569c-6b84-4816-af5f-1e221deedd59;Nuvo
+List(375 ml);0088110931049;088110931049;Triple Orange Liqueur;Alcoholic Beverages;b6a0e990-904a-4f63-95f1-0a42ab8882ab;Grand Marnier
+List(750 ml);0736040501381;736040501381;Liqueur Limoncello;Alcoholic Beverages;84001b4d-c6fd-46dd-b5ec-2e0f71836734;Pallini Roma
+List(375 ml; 0.375 lt);0086767210098;086767210098;Irish Cream Liqueur;Alcoholic Beverages;49281240-77cc-4ca1-bbb8-0fbae038c140;Bailey
+List(750 ml);0089540504582;089540504582;Liqueur Mocha;Alcoholic Beverages;e906d684-5362-4e22-ac7d-9f1b7c1bcfea;Kahlua
+List(750 ml);0096749940035;096749940035;Pomegranate Liqueur;Alcoholic Beverages;775fbd94-3e22-4fe6-9ff2-c4d0b3f7dd25;Pama
+List(4 - 100 ml servings);0086767701367;086767701367;Irish Cream Liqueur;Alcoholic Beverages;80a85c50-94cf-46c0-8a98-f24e29fa593d;Bailey
+List(750 ml);0080686365433;080686365433;Schnapps Liqueur;Alcoholic Beverages;9a7c9027-6312-46ff-ad10-2cfa6522acbb;Dekuyper
+List(375 ml);0050037014518;050037014518;Amaretto Liqueur;Alcoholic Beverages;b2c30669-372c-4673-8c35-391e1f3ac7a7;Disaronno Originale
+List(1 lt);0080853222521;080853222521;Creme De Menthe Liqueur;Alcoholic Beverages;46358258-2b87-4916-865d-76764d954694;Llord's
+List(1 lt);0086767702296;086767702296;Irish Cream Liqueur;Alcoholic Beverages;d75b8c80-3265-48ec-8d0d-6d0f0a885961;Bailey
+List(1.75 lt);0080853222095;080853222095;Peppermint Schnapps Liqueur;Alcoholic Beverages;3227179a-328e-4855-8020-07ef5622d7eb;Llord's
+List(375 ml);0083664371389;083664371389;Original Hazelnut Liqueur;Alcoholic Beverages;711d2d21-8d78-42a8-9b56-2b7569c2d217;Frangelico
+List(750 ml);0085000003961;085000003961;Cream Cream Liqueur;Alcoholic Beverages;24044c78-2ce0-49b2-8cc7-a38a09abd50e;Cask & Cream
+List(1 lt);0080686319207;080686319207;Dekuyper Buttershots Butterscotch Schnapps Liqueur 1L;Alcoholic Beverages;6651afff-4fde-414f-9b46-5306d0979009;Dekuyper
+List(750 ml);0080686365433;080686365433;Schnapps Liqueur;Alcoholic Beverages;9a7c9027-6312-46ff-ad10-2cfa6522acbb;Dekuyper
+List(1.75 ltr);0085000004050;085000004050;Fine Brandy And Cream Liqueur;Alcoholic Beverages;06469f04-418f-460b-868d-bb15bced78b9;E&j Distillers
+List(1.75 lt);0088110931018;088110931018;Triple Orange Liqueur & Cognac Brandy;Alcoholic Beverages;b13b8926-87f2-4594-820e-b0cc73c788d8;Grand Marnier
