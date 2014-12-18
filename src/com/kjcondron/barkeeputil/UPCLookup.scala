@@ -6,6 +6,11 @@ import org.xml.sax.InputSource
 import org.ccil.cowan.tagsoup.jaxp.SAXParserImpl
 import org.xml.sax.helpers.DefaultHandler
 import org.xml.sax.Attributes
+import java.nio.charset.Charset
+import scala.collection.JavaConversions._
+import scala.collection.mutable.MapBuilder
+import scala.collection.mutable.Map
+import scala.collection.mutable.ListBuffer
 
 case class UPCResult( 
 		typ : String,
@@ -174,5 +179,129 @@ object UPCLookup {
   }
   
   def shutdown = Http.shutdown
+  
+  class ALT181WHandler(includeDiv : Boolean = false) extends DefaultHandler {
+    
+    var inBody = false
+    var inP = false
+    var inEntry = false
+    var current = ""
+    
+    val numbers = (1 to 18).map( _ + ".")
+    
+    val res = Map[Int,String]()
+    
+    def checkP(name : String) =
+      if(includeDiv)
+        name == "div" || name == "p"
+      else
+        name == "p"
+    
+    override def startElement( uri : String, localName : String,
+                      name : String, a : Attributes) : Unit = {               
+      inBody = inBody || name == "body"
+      inP = inP || (inBody && checkP(name))
+    }
+                      
+    override def characters( ch : Array[Char], start : Int, length : Int) : Unit =
+                      if(inP) {
+                        val str = new String(ch, start, length).replace("\n", "")
+                        if( inEntry || numbers.exists( p=>str.take(p.length) == p) ) {
+                            inEntry = true
+                        	  current += str
+                        }
+                        	
+                      }
+    
+    override def endElement( uri : String, localName : String, name : String ) =
+      if(inP) {
+        if(inEntry) { 
+          val pos = current.takeWhile(_!='.').toInt
+          val name = current.dropWhile(_!='.').drop(1).trim
+          res += (pos->name) }
+        inEntry = false
+        current = ""
+        
+        if("p" == name) {
+          inP = false
+        }
+      }
+      
+      /*if(inP && "p" == name) {
+        inP = false
+        if(inEntry) { println; println("Also: " + current); current = "" }
+        inEntry = false
+      }*/
+    
+  }
+  
+  class ALT18Handler extends DefaultHandler {
+    
+    var inBody = false
+    var inLink = false
+    var lastAttr : Attributes = null
+    
+    val res = ListBuffer[String]()
+    
+    override def startElement( uri : String, localName : String,
+                      name : String, a : Attributes) : Unit = {               
+      inBody = inBody || name == "body"
+      inLink = inLink || (inBody && name == "a")
+      if(inLink) { 
+        lastAttr = a
+      }
+      
+      }
+                      
+    override def characters( ch : Array[Char], start : Int, length : Int) : Unit =
+                      if(inLink) {
+                        val str = new String(ch, start, length)
+                        if("Continued" == str) {
+                        	println( lastAttr.getValue("href") )
+                        	res ++= getALT181W(lastAttr.getValue("href")).values
+                        }
+                      }
+    
+    override def endElement( uri : String, localName : String, name : String ) = 
+      if(inLink) {
+        inLink = false
+        lastAttr = null
+      }
+    
+  }
+  
+  def getALT181W( address : String, includeDiv : Boolean = false ) : Map[Int,String] = {
+    
+    val page = url(address)
+    val fHTML = Http(page OK ( resp => new InputSource(resp.getResponseBodyAsStream()) ))
+	val HTML = fHTML()
+	HTML.setEncoding("UTF-8")
+	
+	val h1 = new ALT181WHandler(includeDiv)
+	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
+	parser.parse(HTML, h1)
+	
+	if (!includeDiv && h1.res.size == 0)
+		getALT181W(address,true)
+	else
+	{
+		println(h1.res)
+		h1.res
+	}
+  }
+  
+  def getALT18( address : String ) : List[String] = {
+    
+    val page = url(address)
+    val fHTML = Http(page OK ( resp => new InputSource(resp.getResponseBodyAsStream()) ))
+	val HTML = fHTML()
+	HTML.setEncoding("UTF-8");
+	
+	val h1 = new ALT18Handler
+	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
+	parser.parse(HTML, h1)
+	
+	h1.res.toList.map( str => str.replace("(debut)", "").replace("“","").replace("”","") )
+  }
   
 }
