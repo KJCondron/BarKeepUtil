@@ -16,6 +16,10 @@ import java.io.File
 import java.io.FileInputStream
 import java.io.PrintWriter
 import scala.io.Source
+import java.io.InputStreamReader
+import java.io.BufferedWriter
+import java.io.OutputStreamWriter
+import java.io.FileOutputStream
 
 case class UPCResult( 
 		typ : String,
@@ -277,18 +281,18 @@ object UPCLookup {
   
   def getALT181W( address : String, includeDiv : Boolean = false ) : Map[Int,String] = {
     
-    val page = url(address)
-    val fHTML = Http(page OK ( resp => new InputSource(resp.getResponseBodyAsStream()) ))
-	val HTML = fHTML()
-	HTML.setEncoding("UTF-8")
-	
-	//val HTML2 = save(HTML, address)
-	//HTML2.setEncoding("UTF-8")
-	val HTML2 = HTML
-	
+    val fl = new File(getSaveName(address))
+    
+    val HTML = if(fl.exists)
+      loadStream(getSaveName(address))
+    else {
+      val h = getISFromURL(address)
+      save(h,address)
+    }
+      
 	val h1 = new ALT181WHandler(includeDiv)
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
-	parser.parse(HTML2, h1)
+	parser.parse(HTML, h1)
 	
 	if (!includeDiv && h1.res.size == 0)
 		getALT181W(address,true)
@@ -301,11 +305,14 @@ object UPCLookup {
    
   def inputToFile(is: java.io.InputStream, f: java.io.File) {
 	  val in = scala.io.Source.fromInputStream(is)("UTF-8")
-	  val out = new java.io.PrintWriter(f)
-      try { in.getLines().foreach(out.println(_)) }
+	  //val out = new java.io.PrintWriter(f)
+	  
+	  val out = new BufferedWriter(new OutputStreamWriter(
+			  new FileOutputStream(f), "UTF-8"));
+      try { in.getLines().foreach(out.write(_)) }
 	  finally { out.close }
   }
-  
+   
   def saveStream( name : String, is : InputStream ) = 
   {
      val fl = new File(name)
@@ -313,18 +320,17 @@ object UPCLookup {
   }
   
   def loadStream( name : String ) = 
-  {
-    //val in = Source.fromFile(new File(name))("UTF-8")
-    //new InputSource(in.bufferedReader)
-    val is =  new InputSource(new FileInputStream(new File(name)))
+  { 
+    val is = new InputSource(new FileInputStream(new File(name)))
     is.setEncoding("UTF-8")
     is
   }
   def save( input : InputSource, address : String ) : InputSource = 
   {
-    val inputStream = input.getByteStream()
     val filename = getSaveName(address)
-    saveStream(filename, inputStream)
+    
+    val inputStream = input.getByteStream()
+    saveStream(filename, inputStream) 
     
     loadStream(filename)
   }
@@ -333,6 +339,15 @@ object UPCLookup {
     val elems = url.split('/')
     """C:\Users\Karl\Documents\ALT18\""" + elems(elems.length-1)
   }
+  
+  def getISFromURL( address : String ) = {
+    val page = url(address)
+    val fHTML = Http(page OK ( resp => new InputSource(resp.getResponseBodyAsStream()) ))
+	val HTML = fHTML()
+	HTML.setEncoding("UTF-8");
+    HTML
+  }
+    
     
   def getALT18( address : String ) : List[String] = {
     
