@@ -15,6 +15,7 @@ import java.io.InputStream
 import java.io.File
 import java.io.FileInputStream
 import java.io.PrintWriter
+import scala.io.Source
 
 case class UPCResult( 
 		typ : String,
@@ -281,8 +282,9 @@ object UPCLookup {
 	val HTML = fHTML()
 	HTML.setEncoding("UTF-8")
 	
-	val HTML2 = save(HTML, address)
-	HTML2.setEncoding("UTF-8")
+	//val HTML2 = save(HTML, address)
+	//HTML2.setEncoding("UTF-8")
+	val HTML2 = HTML
 	
 	val h1 = new ALT181WHandler(includeDiv)
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
@@ -296,24 +298,12 @@ object UPCLookup {
 		h1.res
 	}
   }
-  
-  def tryPrint( data : String, out : PrintWriter)
-  {
-    try {
-      out.println(data)
-    }
-    catch{
-      case e : Exception => println("expction")
-      case _ : Throwable => println("caught")
-    }
-  }
-  
+   
   def inputToFile(is: java.io.InputStream, f: java.io.File) {
-	  val in = scala.io.Source.fromInputStream(is)
+	  val in = scala.io.Source.fromInputStream(is)("UTF-8")
 	  val out = new java.io.PrintWriter(f)
-      //try { in.getLines().foreach(out.println(_)) }
-	  try{ in.getLines.foreach(tryPrint(_,out))}
-      finally { out.close }
+      try { in.getLines().foreach(out.println(_)) }
+	  finally { out.close }
   }
   
   def saveStream( name : String, is : InputStream ) = 
@@ -323,18 +313,27 @@ object UPCLookup {
   }
   
   def loadStream( name : String ) = 
-    new InputSource(new FileInputStream(new File(name)))
-  
+  {
+    //val in = Source.fromFile(new File(name))("UTF-8")
+    //new InputSource(in.bufferedReader)
+    val is =  new InputSource(new FileInputStream(new File(name)))
+    is.setEncoding("UTF-8")
+    is
+  }
   def save( input : InputSource, address : String ) : InputSource = 
   {
     val inputStream = input.getByteStream()
-    val elems = address.split('/')
-    val filename = """C:\Users\Karl\Documents\ALT18\""" + elems(elems.length-1)
+    val filename = getSaveName(address)
     saveStream(filename, inputStream)
     
     loadStream(filename)
   }
   
+  def getSaveName( url : String ) = { 
+    val elems = url.split('/')
+    """C:\Users\Karl\Documents\ALT18\""" + elems(elems.length-1)
+  }
+    
   def getALT18( address : String ) : List[String] = {
     
     val page = url(address)
