@@ -11,6 +11,10 @@ import scala.collection.JavaConversions._
 import scala.collection.mutable.MapBuilder
 import scala.collection.mutable.Map
 import scala.collection.mutable.ListBuffer
+import java.io.InputStream
+import java.io.File
+import java.io.FileInputStream
+import java.io.PrintWriter
 
 case class UPCResult( 
 		typ : String,
@@ -277,9 +281,12 @@ object UPCLookup {
 	val HTML = fHTML()
 	HTML.setEncoding("UTF-8")
 	
+	val HTML2 = save(HTML, address)
+	HTML2.setEncoding("UTF-8")
+	
 	val h1 = new ALT181WHandler(includeDiv)
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
-	parser.parse(HTML, h1)
+	parser.parse(HTML2, h1)
 	
 	if (!includeDiv && h1.res.size == 0)
 		getALT181W(address,true)
@@ -290,13 +297,51 @@ object UPCLookup {
 	}
   }
   
+  def tryPrint( data : String, out : PrintWriter)
+  {
+    try {
+      out.println(data)
+    }
+    catch{
+      case e : Exception => println("expction")
+      case _ : Throwable => println("caught")
+    }
+  }
+  
+  def inputToFile(is: java.io.InputStream, f: java.io.File) {
+	  val in = scala.io.Source.fromInputStream(is)
+	  val out = new java.io.PrintWriter(f)
+      //try { in.getLines().foreach(out.println(_)) }
+	  try{ in.getLines.foreach(tryPrint(_,out))}
+      finally { out.close }
+  }
+  
+  def saveStream( name : String, is : InputStream ) = 
+  {
+     val fl = new File(name)
+     inputToFile(is, fl)
+  }
+  
+  def loadStream( name : String ) = 
+    new InputSource(new FileInputStream(new File(name)))
+  
+  def save( input : InputSource, address : String ) : InputSource = 
+  {
+    val inputStream = input.getByteStream()
+    val elems = address.split('/')
+    val filename = """C:\Users\Karl\Documents\ALT18\""" + elems(elems.length-1)
+    saveStream(filename, inputStream)
+    
+    loadStream(filename)
+  }
+  
   def getALT18( address : String ) : List[String] = {
     
     val page = url(address)
     val fHTML = Http(page OK ( resp => new InputSource(resp.getResponseBodyAsStream()) ))
 	val HTML = fHTML()
 	HTML.setEncoding("UTF-8");
-	
+		
 	val h1 = new ALT18Handler
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
 	parser.parse(HTML, h1)
