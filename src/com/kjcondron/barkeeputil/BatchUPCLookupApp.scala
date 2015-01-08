@@ -3,10 +3,18 @@ package com.kjcondron.barkeeputil
 import com.kjcondron.scalaqlite._
 
 object UAlt18 extends App {
+ 
  val address = """http://theunofficialalt18countdownplaylists.com/"""
-   val res = UPCLookup.getUALT18Cal(address)
-   res.foreach(println)
-   UPCLookup.shutdown
+ val res = UPCLookup.getUALT18Cal(address)
+ 
+ val alt18add = res.flatMap( resAdd => UPCLookup.getUALT18(resAdd).flatten)
+ 
+ alt18add.foreach( x=> {
+   println(x)
+   //UPCLookup.getUALT18Res(x)
+ })
+ 
+ UPCLookup.shutdown
 }
 
 
