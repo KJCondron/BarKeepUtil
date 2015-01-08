@@ -19,10 +19,20 @@ import dispatch.url
 
 object HTTPWrapper {
 
-private def getSaveName(cacheLoc : String)(url : String ) = { 
-    val elems = url.split('/')
-    cacheLoc + elems(elems.length-1)
-  }
+	private def getSaveName(cacheLoc : String)(url : String ) = {
+	    val name = url.replace(":","").replace('/', '.')
+	    cacheLoc + name
+	  }
+	
+	def HTML(cacheLocation : String)( address : String ) : InputSource = {
+	  val conn = new HTTPWrapper(cacheLocation)
+	  val HTML = conn.request(address)
+	  conn.dispose
+	  HTML
+	}
+	
+	def HTMLFunc( cacheLocation : String ) : String => InputSource =
+			HTML(cacheLocation)  _
 }
   
 class HTTPWrapper(
@@ -41,7 +51,7 @@ class HTTPWrapper(
     }
   }
 
-  def destrcutor = Http.shutdown
+  def dispose = Http.shutdown
     
   private def inputToFile(is: java.io.InputStream, f: java.io.File) {
 	  val in = scala.io.Source.fromInputStream(is)("UTF-8")
