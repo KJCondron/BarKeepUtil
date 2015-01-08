@@ -1,25 +1,24 @@
 package com.kjcondron.barkeeputil
 
-import scala.concurrent.ExecutionContext.Implicits.global
-import dispatch._
-import org.xml.sax.InputSource
-import org.ccil.cowan.tagsoup.jaxp.SAXParserImpl
-import org.xml.sax.helpers.DefaultHandler
-import org.xml.sax.Attributes
-import java.nio.charset.Charset
-import scala.collection.JavaConversions._
-import scala.collection.mutable.MapBuilder
-import scala.collection.mutable.Map
-import scala.collection.mutable.ListBuffer
-import java.io.InputStream
+import java.io.BufferedWriter
 import java.io.File
 import java.io.FileInputStream
-import java.io.PrintWriter
-import scala.io.Source
-import java.io.InputStreamReader
-import java.io.BufferedWriter
-import java.io.OutputStreamWriter
 import java.io.FileOutputStream
+import java.io.InputStream
+import java.io.OutputStreamWriter
+import scala.collection.mutable.ListBuffer
+import scala.collection.mutable.Map
+import scala.concurrent.ExecutionContext.Implicits.global
+import scala.io.Codec.string2codec
+import org.ccil.cowan.tagsoup.jaxp.SAXParserImpl
+import org.xml.sax.Attributes
+import org.xml.sax.InputSource
+import org.xml.sax.helpers.DefaultHandler
+import dispatch.Http
+import dispatch.enrichFuture
+import dispatch.implyRequestHandlerTuple
+import dispatch.url
+import com.kjcondron.web.HTTPWrapper
 
 case class UPCResult( 
 		typ : String,
@@ -281,14 +280,17 @@ object UPCLookup {
   
   def getALT181W( address : String, includeDiv : Boolean = false ) : Map[Int,String] = {
     
-    val fl = new File(getSaveName(address))
+    /*val fl = new File(getSaveName(address))
     
     val HTML = if(fl.exists)
       loadStream(getSaveName(address))
     else {
       val h = getISFromURL(address)
       save(h,address)
-    }
+    }*/
+    
+    val conn = new HTTPWrapper("""C:\Users\Karl\Documents\ALT18\""")
+    val HTML = conn.request(address)
       
 	val h1 = new ALT181WHandler(includeDiv)
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
