@@ -243,6 +243,133 @@ object UPCLookup {
     
   }
   
+  def tryGet( a : Attributes, name : String) : Option[String] =
+    if(a.getIndex(name) == -1 )
+      None
+      else
+        Some(a.getValue(name))
+  
+  class UALT18CalHandler(val res : ListBuffer[Option[String]] = ListBuffer()) extends DefaultHandler {
+    
+    var inBody = false
+    var inCalendar = false
+    var calDepthCount = 0
+    var inLink = false
+    var foundPrev = true
+    
+    override def startElement( uri : String, localName : String,
+                      name : String, a : Attributes) : Unit = {               
+      
+      inBody = inBody || name == "body"
+      
+      calDepthCount += (if(inCalendar) 1 else 0)
+      
+      inCalendar = inCalendar || tryGet(a, "class").map( s => s.contains("calendar") ).getOrElse(false)
+      
+      if(inCalendar) {
+    	  inLink = inLink || (inBody && name == "a")
+    	  if(inLink)
+    	    res += tryGet(a, "title").flatMap {
+    	    case s : String if s.toUpperCase.contains("RESULTS") => Some(a.getValue("href"))
+    	    case _ => None
+    	  }
+    	  
+    	  if(foundPrev) {
+    	    foundPrev = false
+    	    if(inLink)
+    	    	res ++= getUALT18CalO( tryGet(a,"href").get )
+    	    	//println("next cal " + tryGet(a,"href").get)
+    	  }
+    	  
+    	  
+    	  foundPrev = foundPrev || tryGet(a, "id").map( _ == "prev" ).getOrElse(false)
+      }   
+    }
+                      
+    override def endElement( uri : String, localName : String, name : String ) = { 
+      if(inLink) {
+        inLink = false
+      }
+    
+    if(inCalendar) {
+      calDepthCount -=1
+    		  if(calDepthCount == 0) { 
+    			  inCalendar = false
+      			}
+    	}
+    }
+  }
+  
+  class UALT18Handler extends DefaultHandler {
+    
+    var inBody = false
+    var inLink = false
+    
+    val res = ListBuffer[Option[String]]()
+    
+    override def startElement( uri : String, localName : String,
+                      name : String, a : Attributes) : Unit = {               
+      
+      inBody = inBody || name == "body"
+      //inLink = inLink || (inBody && name == "a")  
+         
+      if(inBody && name == "a") {
+        res += tryGet(a, "title").flatMap {
+          case s : String if s.toUpperCase.contains("RESULTS") => 
+            {
+              Some(tryGet(a,"href").get)
+            }
+          case _ => None
+        }
+        
+        val el = List[Option[String]]()
+        
+        val nextPageList = tryGet(a, "class").map( {
+            case s if (s == "next page-numbers") => getUALT18(tryGet(a,"href").get)
+            case _ => el } ).getOrElse(el)
+            
+        res ++= nextPageList
+      } 
+    }
+    
+    //override def endElement( uri : String, localName : String, name : String )
+      
+  }
+    
+   
+  class UALT18ResHandler extends DefaultHandler {
+    
+    var inBody = false
+    var foundArtist = false
+    var tdCount = 0
+    
+    val res = ListBuffer[String]()
+     
+    override def startElement( uri : String, localName : String,
+                      name : String, a : Attributes) : Unit = {               
+      inBody = inBody || name == "body"
+        
+      tdCount += (if (inBody && foundArtist && name == "td") 1 else 0)
+      
+    }
+                      
+    override def characters( ch : Array[Char], start : Int, length : Int) : Unit = {
+      if(inBody) {
+        foundArtist = foundArtist || ch.contains("ARTIST")
+       
+        if(tdCount == 5)
+        {
+          val str = new String(ch, start, length)
+          res += str
+          tdCount = 0
+        }
+      }
+    }
+    
+    //override def endElement( uri : String, localName : String, name : String ) =  
+  }
+  
+  
   class ALT18Handler extends DefaultHandler {
     
     var inBody = false
@@ -280,18 +407,21 @@ object UPCLookup {
   
   def getALT181W( address : String, includeDiv : Boolean = false ) : Map[Int,String] = {
     
-    /*val fl = new File(getSaveName(address))
+    /*
+	val dir = """C:\Users\Karl\Documents\ALT18\"""
+    val filename = getSaveName(dir, address)
+    val fl = new File(filename)
     
     val HTML = if(fl.exists)
-      loadStream(getSaveName(address))
+      loadStream(filename)
     else {
       val h = getISFromURL(address)
-      save(h,address)
+      save(h,address,dir)
     }*/
     
     val conn = new HTTPWrapper("""C:\Users\Karl\Documents\ALT18\""")
     val HTML = conn.request(address)
-      
+  
 	val h1 = new ALT181WHandler(includeDiv)
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
 	parser.parse(HTML, h1)
@@ -327,9 +457,9 @@ object UPCLookup {
     is.setEncoding("UTF-8")
     is
   }
-  def save( input : InputSource, address : String ) : InputSource = 
+  def save( input : InputSource, address : String, dir : String ) : InputSource = 
   {
-    val filename = getSaveName(address)
+    val filename = getSaveName(dir, address)
     
     val inputStream = input.getByteStream()
     saveStream(filename, inputStream) 
@@ -337,12 +467,13 @@ object UPCLookup {
     loadStream(filename)
   }
   
-  def getSaveName( url : String ) = { 
+  def getSaveName( dir : String, url : String ) = { 
     val elems = url.split('/')
-    """C:\Users\Karl\Documents\ALT18\""" + elems(elems.length-1)
+    dir + elems(elems.length-1)
   }
   
   def getISFromURL( address : String ) = {
+    println("retrieving: " + address)
     val page = url(address)
     val fHTML = Http(page OK ( resp => new InputSource(resp.getResponseBodyAsStream()) ))
 	val HTML = fHTML()
@@ -353,16 +484,61 @@ object UPCLookup {
     
   def getALT18( address : String ) : List[String] = {
     
-    val page = url(address)
-    val fHTML = Http(page OK ( resp => new InputSource(resp.getResponseBodyAsStream()) ))
-	val HTML = fHTML()
-	HTML.setEncoding("UTF-8");
-		
+    val HTML = getISFromURL(address)
+	
 	val h1 = new ALT18Handler
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
 	parser.parse(HTML, h1)
 	
 	h1.res.toList.map( str => str.replace("(debut)", "").replace("“","").replace("”","") )
   }
+  
+  def getUALT18Cal( address : String ) : List[String] = 
+    getUALT18CalO(address).flatten
+  
+  
+  def getUALT18CalO( address : String ) : List[Option[String]] = {
+    	println("getUALT18CalO")
+	  
+    val HTML = getISFromURL(address)
+		
+	val h1 = new UALT18CalHandler
+	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
+	parser.parse(HTML, h1)
+	
+	h1.res.toList
+	}
+  
+    def getUALT18( address : String ) : List[Option[String]] = {
+	  	println("getUALT18")
+	    val HTML = getISFromURL(address)
+		
+		val h1 = new UALT18Handler
+		val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
+		parser.parse(HTML, h1)
+		
+		h1.res.toList
+	}
+  
+  def getUALT18Res( address : String ) : List[String] = {
+    	println("getUALT18Res")
+	  
+    val dir = """C:\Users\Karl\Documents\UALT18\"""
+    val filename = getSaveName(dir, address)
+    val fl = new File(filename)
+    
+    val HTML = if(fl.exists)
+      loadStream(filename)
+    else {
+      val h = getISFromURL(address)
+      save(h,address,dir)
+    }
+    	
+	val h1 = new UALT18ResHandler
+	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
+	parser.parse(HTML, h1)
+	
+	h1.res.toList
+	}
   
 }
