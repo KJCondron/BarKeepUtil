@@ -17,14 +17,15 @@ object UAlt18 extends App {
       None
       else
         Some(a.getValue(name))
-
-  
+        
+  def tryIf(x : => Boolean) = if(x) Some() else None
+        
   def getUALT18Cal( address : String ) : List[String] = 
     getUALT18CalO(address).flatten
   
   
   def getUALT18CalO( address : String ) : List[Option[String]] = {
-    	
+    
     val HTML = conn.request(address)
 		
 	val h1 = new UALT18CalHandler
@@ -35,17 +36,18 @@ object UAlt18 extends App {
 	}
   
   def getUALT18( address : String ) : List[Option[String]] = {
-	  	val HTML = conn.request(address)
-		
-		val h1 = new UALT18Handler
-		val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
-		parser.parse(HTML, h1)
-		
-		h1.res.toList
-	}
+	  	
+    val HTML = conn.request(address)
+	
+	val h1 = new UALT18Handler
+	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
+	parser.parse(HTML, h1)
+	
+	h1.res.toList.distinct
+    }
   
   def getUALT18Res( address : String ) : List[String] = {
-    	
+    
     val HTML = conn.request(address)
     	
 	val h1 = new UALT18ResHandler
@@ -61,7 +63,9 @@ object UAlt18 extends App {
  val alt18add = res.flatMap( resAdd => getUALT18(resAdd).flatten)
  
  alt18add.foreach( x=> {
-   println(x)
+   if(x.contains("results-")) {
+     println(x)
+   }
  })
  
  conn.dispose
@@ -127,7 +131,6 @@ class UALT18ResHandler extends DefaultHandler {
     	    foundPrev = false
     	    if(inLink)
     	    	res ++= getUALT18CalO( tryGet(a,"href").get )
-    	    	//println("next cal " + tryGet(a,"href").get)
     	  }
     	  
     	  
@@ -162,14 +165,36 @@ class UALT18ResHandler extends DefaultHandler {
       inBody = inBody || name == "body"
       //inLink = inLink || (inBody && name == "a")  
          
-      if(inBody && name == "a") {
+      /*if(inBody && name == "a") {
         res += tryGet(a, "title").flatMap {
           case s : String if s.toUpperCase.contains("RESULTS") => 
             {
-              Some(tryGet(a,"href").get)
+              val pattern ="""Results (\d+)/(\d+)/(\d+)""".r
+              pattern.findFirstIn(s).flatMap( _ => {
+            	  val res = tryGet(a,"href").flatMap( href => {
+            		 if(href.toUpperCase().contains("RESULTS"))	  
+            		   Some(href)
+            		 else
+            		   None
+            	  })
+            	  res
+              } )
             }
           case _ => None
-        }
+        }*/
+        
+       val pattern ="""Results (\d+)/(\d+)/(\d+)""".r	
+        
+        if(inBody && name == "a") {
+	        res += tryGet(a, "title").flatMap {
+			  case s : String => tryIf(s.toUpperCase.contains("RESULTS")).flatMap( _ =>
+				  pattern.findFirstIn(s).flatMap( _ => 
+					  tryGet(a,"href").flatMap( href => 
+						 tryIf(href.toUpperCase().contains("RESULTS")).map(_ => href)	  
+					  )
+				))
+			  case _ => None
+			}
         
         val el = List[Option[String]]()
         
