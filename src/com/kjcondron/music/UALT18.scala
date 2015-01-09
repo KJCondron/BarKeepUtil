@@ -11,6 +11,7 @@ import com.kjcondron.web.HTTPWrapper
 object UAlt18 extends App {
   
   val conn = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\""")
+  val conn2 = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\Res\""")
     
   def tryGet( a : Attributes, name : String) : Option[String] =
     if(a.getIndex(name) == -1 )
@@ -57,6 +58,17 @@ object UAlt18 extends App {
 	h1.res.toList
 }
   
+  def getUALT18Table( address : String ) : List[String] = {
+    
+    val HTML = conn2.request(address)
+    	
+	val h1 = new UALT18TableHandler
+	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
+	parser.parse(HTML, h1)
+	
+	h1.res.toList
+}
+  
  val address = """http://theunofficialalt18countdownplaylists.com/"""
  val res = getUALT18Cal(address)
  
@@ -65,10 +77,12 @@ object UAlt18 extends App {
  alt18add.foreach( x=> {
    if(x.contains("results-")) {
      println(x)
+     getUALT18Table(x).foreach(println)
    }
  })
  
  conn.dispose
+ conn2.dispose
 
 class UALT18ResHandler extends DefaultHandler {
     
@@ -163,26 +177,7 @@ class UALT18ResHandler extends DefaultHandler {
                       name : String, a : Attributes) : Unit = {               
       
       inBody = inBody || name == "body"
-      //inLink = inLink || (inBody && name == "a")  
          
-      /*if(inBody && name == "a") {
-        res += tryGet(a, "title").flatMap {
-          case s : String if s.toUpperCase.contains("RESULTS") => 
-            {
-              val pattern ="""Results (\d+)/(\d+)/(\d+)""".r
-              pattern.findFirstIn(s).flatMap( _ => {
-            	  val res = tryGet(a,"href").flatMap( href => {
-            		 if(href.toUpperCase().contains("RESULTS"))	  
-            		   Some(href)
-            		 else
-            		   None
-            	  })
-            	  res
-              } )
-            }
-          case _ => None
-        }*/
-        
        val pattern ="""Results (\d+)/(\d+)/(\d+)""".r	
         
         if(inBody && name == "a") {
@@ -190,7 +185,7 @@ class UALT18ResHandler extends DefaultHandler {
 			  case s : String => tryIf(s.toUpperCase.contains("RESULTS")).flatMap( _ =>
 				  pattern.findFirstIn(s).flatMap( _ => 
 					  tryGet(a,"href").flatMap( href => 
-						 tryIf(href.toUpperCase().contains("RESULTS")).map(_ => href)	  
+						 tryIf(href.toUpperCase().contains("RESULTS")).flatMap(_ => Some(href))	  
 					  )
 				))
 			  case _ => None
@@ -206,4 +201,58 @@ class UALT18ResHandler extends DefaultHandler {
       } 
     }     
   }
-}
+  
+  class UALT18TableHandler extends DefaultHandler {
+    
+    var inBody = false
+    var inTable = false
+    var inTHead = false
+    var inTBody = false
+    var inTRow = false
+    var inTrackCol = false
+    var found1 = false
+    var maxCol = 0
+    
+    val res = ListBuffer[(String)]()
+    
+    override def startElement( uri : String, localName : String,
+                      name : String, a : Attributes) : Unit = {               
+      
+      inBody = inBody || name == "body"
+      inTable = inTable || (inBody && name == "table")
+      inTHead = inTHead || (inTable && name == "thead")
+      if(inTHead && name == "th")
+        maxCol += 1
+      
+      val trackCol = "column-"+maxCol  
+      inTBody = inTBody || (inTable && name == "tbody")
+      inTRow = inTRow || (inTBody && name == "tr")
+      inTrackCol = inTrackCol || (inTRow && name == "td" && tryGet(a,"class").getOrElse(false)==trackCol)
+      found1 = found1 || inTrackCol
+      
+      
+    }
+    
+    override def characters( ch : Array[Char], start : Int, length : Int) : Unit =
+      if(inTrackCol) 
+        res += new String(ch, start, length)
+    
+    override def endElement( uri : String, localName : String, name : String ) = {
+      if(inTHead && name == "thead")
+        inTHead = false
+        
+        if(found1 && name == "table") {
+        // just set all vars to false to stop parsing
+        inBody = false
+	    inTable = false
+	    inTBody = false
+	    inTRow = false
+	    inTrackCol = false
+      }
+      if(inTrackCol && name == "td")
+        inTrackCol = false
+    }
+  }
+
+
+} // end app
