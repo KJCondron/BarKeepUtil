@@ -8,6 +8,12 @@ import org.xml.sax.helpers.DefaultHandler
 
 import com.kjcondron.web.HTTPWrapper
 
+import com.wrapper.spotify._
+import com.wrapper.spotify.Api._
+import com.wrapper.spotify.Api.Builder
+  
+
+
 object UAlt18F {
   
   def tryGet( a : Attributes, name : String) : Option[String] =
@@ -237,9 +243,20 @@ class UALT18ResHandler extends DefaultHandler {
         inTrackCol = false
     }
   }
+    
+  def getSpotify = {
+    
+    
+    val b = new Builder()
+    
+    val api = b.clientId("clientId").clientSecret("secret").redirectURI("redir").build()
+    
+    val api1 = new Api(b)
+    api.getAlbums("artist")
+    
+  }
 
 }
-
 import UAlt18F._
 
 object UAlt18 extends App {

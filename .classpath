@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="jars/async-http-client-1.7.16.jar"/>
 	<classpathentry kind="lib" path="jars/dispatch-core_2.10-0.11.0.jar"/>
 	<classpathentry kind="lib" path="jars/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karl/Documents/GitHub/BarKeepUtil/jars/spotify-web-api-java-1.5.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
