@@ -50,6 +50,11 @@ class HTTPWrapper(
       save(h,address)
     }
   }
+  
+  def requestLatest( address : String ) : InputSource = {
+      val h = getISFromURL(address)
+      save(h,address)
+  }
 
   def dispose = Http.shutdown
     

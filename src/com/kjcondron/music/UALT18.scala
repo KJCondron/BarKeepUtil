@@ -8,11 +8,8 @@ import org.xml.sax.helpers.DefaultHandler
 
 import com.kjcondron.web.HTTPWrapper
 
-object UAlt18 extends App {
+object UAlt18F {
   
-  val conn = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\""")
-  val conn2 = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\Res\""")
-    
   def tryGet( a : Attributes, name : String) : Option[String] =
     if(a.getIndex(name) == -1 )
       None
@@ -21,33 +18,33 @@ object UAlt18 extends App {
         
   def tryIf(x : => Boolean) = if(x) Some() else None
         
-  def getUALT18Cal( address : String ) : List[String] = 
-    getUALT18CalO(address).flatten
+  def getUALT18Cal( address : String, conn : HTTPWrapper  ) : List[String] = 
+    getUALT18CalO(address, conn).flatten
   
   
-  def getUALT18CalO( address : String ) : List[Option[String]] = {
+  def getUALT18CalO( address : String, conn : HTTPWrapper ) : List[Option[String]] = {
     
-    val HTML = conn.request(address)
+    val HTML = conn.requestLatest(address)
 		
-	val h1 = new UALT18CalHandler
+	val h1 = new UALT18CalHandler(conn)
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
 	parser.parse(HTML, h1)
 	
 	h1.res.toList
 	}
   
-  def getUALT18( address : String ) : List[Option[String]] = {
+  def getUALT18( address : String, conn : HTTPWrapper  ) : List[Option[String]] = {
 	  	
     val HTML = conn.request(address)
 	
-	val h1 = new UALT18Handler
+	val h1 = new UALT18Handler(conn)
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
 	parser.parse(HTML, h1)
 	
 	h1.res.toList.distinct
     }
   
-  def getUALT18Res( address : String ) : List[String] = {
+  def getUALT18Res( address : String, conn : HTTPWrapper  ) : List[String] = {
     
     val HTML = conn.request(address)
     	
@@ -57,10 +54,10 @@ object UAlt18 extends App {
 	
 	h1.res.toList
 }
-  
-  def getUALT18Table( address : String ) : List[String] = {
+  //2
+  def getUALT18Table( address : String, conn : HTTPWrapper  ) : List[String] = {
     
-    val HTML = conn2.request(address)
+    val HTML = conn.request(address)
     	
 	val h1 = new UALT18TableHandler
 	val parser = new org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl().newSAXParser()
@@ -69,21 +66,6 @@ object UAlt18 extends App {
 	h1.res.toList
 }
   
- val address = """http://theunofficialalt18countdownplaylists.com/"""
- val res = getUALT18Cal(address)
- 
- val alt18add = res.flatMap( resAdd => getUALT18(resAdd).flatten)
- 
- alt18add.foreach( x=> {
-   if(x.contains("results-")) {
-     println(x)
-     getUALT18Table(x).foreach(println)
-   }
- })
- 
- conn.dispose
- conn2.dispose
-
 class UALT18ResHandler extends DefaultHandler {
     
     var inBody = false
@@ -116,7 +98,9 @@ class UALT18ResHandler extends DefaultHandler {
     //override def endElement( uri : String, localName : String, name : String ) =  
   }
 
-  class UALT18CalHandler(val res : ListBuffer[Option[String]] = ListBuffer()) extends DefaultHandler {
+  class UALT18CalHandler(
+      conn : HTTPWrapper,
+      val res : ListBuffer[Option[String]] = ListBuffer()) extends DefaultHandler {
     
     var inBody = false
     var inCalendar = false
@@ -144,7 +128,7 @@ class UALT18ResHandler extends DefaultHandler {
     	  if(foundPrev) {
     	    foundPrev = false
     	    if(inLink)
-    	    	res ++= getUALT18CalO( tryGet(a,"href").get )
+    	    	res ++= getUALT18CalO( tryGet(a,"href").get, conn)
     	  }
     	  
     	  
@@ -166,7 +150,7 @@ class UALT18ResHandler extends DefaultHandler {
     }
   }
   
-  class UALT18Handler extends DefaultHandler {
+  class UALT18Handler(val conn : HTTPWrapper) extends DefaultHandler {
     
     var inBody = false
     var inLink = false
@@ -194,7 +178,7 @@ class UALT18ResHandler extends DefaultHandler {
         val el = List[Option[String]]()
         
         val nextPageList = tryGet(a, "class").map( {
-            case s if (s == "next page-numbers") => getUALT18(tryGet(a,"href").get)
+            case s if (s == "next page-numbers") => getUALT18(tryGet(a,"href").get, conn)
             case _ => el } ).getOrElse(el)
             
         res ++= nextPageList
@@ -254,5 +238,36 @@ class UALT18ResHandler extends DefaultHandler {
     }
   }
 
+}
+
+import UAlt18F._
+
+object UAlt18 extends App {
+  
+  val conn = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\""")
+  val conn2 = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\Res\""")
+    
+  val address = """http://theunofficialalt18countdownplaylists.com/"""
+  val res = getUALT18Cal(address,conn)
+ 
+ val alt18add = res.flatMap( resAdd => getUALT18(resAdd,conn).flatten )
+ 
+ val results = alt18add.collect( {
+   case x  : String if(x.contains("results-")) => getUALT18Table(x,conn2) 
+ } )
+ 
+ val fResults = results.flatten
+ 
+ val ats = fResults.map ( x=> { 
+   val at = x.split("-")
+   val artist = at(0)
+   val title = if(at.size > 1) { at(1) } else { "" } 
+   (artist, title) 
+ })
+ 
+ ats.foreach(println)
+ 
+ conn.dispose
+ conn2.dispose
 
 } // end app
