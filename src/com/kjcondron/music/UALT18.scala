@@ -9,11 +9,7 @@ import org.xml.sax.helpers.DefaultHandler
 import com.kjcondron.web.HTTPWrapper
 
 import com.wrapper.spotify._
-import com.wrapper.spotify.Api._
-import com.wrapper.spotify.Api.Builder
-  
-
-
+ 
 object UAlt18F {
   
   def tryGet( a : Attributes, name : String) : Option[String] =
@@ -244,47 +240,74 @@ class UALT18ResHandler extends DefaultHandler {
     }
   }
     
-  def getSpotify = {
+  def getSpotify(conn : HTTPWrapper) = {
     
+    import scala.collection.JavaConversions._
     
-    val b = new Builder()
+    val clientId = "20212105b1764ecb81a226fca7796b4b"
+    val secret = "57a3b615f9be4b17b61361da94b35204"
+    val redir = "https://www.google.com/"
     
-    val api = b.clientId("clientId").clientSecret("secret").redirectURI("redir").build()
+    val api = Api.builder.clientId(clientId)
+              .clientSecret(secret)
+              .redirectURI(redir)
+              .build
+              
+   /* val request = api.clientCredentialsGrant().build();
+    val response = request.get
+    println(response.getAccessToken)
     
-    val api1 = new Api(b)
-    api.getAlbums("artist")
+    val scopes = List("user-read-private", "user-read-email")
+    val state = "mystate"
+    val authorizeURL = api.createAuthorizeURL(scopes, state);
+    println(authorizeURL)
     
-  }
+    val HTML = conn.requestLatestHTML(authorizeURL)
+    HTML.foreach(println)
+    */
+    //val tok=""
+    val code = "AQBitHw6fyzoSd0NqYzaM95aF4ABHR1AQ-d5WNnRcKXXO78agz110qmzll57nHZ5RhCvNLY6ZZWY4IFOyxUPwC0ZrwhTmhjctOhHQNV2RyDsAJVljnmLDgV8YOfbEqE18FbCL_BEfk-celP6orz4cnRExc3VlYUHKZfwdZM1D2HCkrutmFP8oM6dj0yoey16poIwkyB45hJ49lQaOiPLrp3DKXUtMcQqtNV5tyF3NuHw"
+    val credentialRequest = api.authorizationCodeGrant(code).build.get()
+    
+    val tok = credentialRequest.getAccessToken
+    println(tok)
+    //val token = getAccessToken
+    
+    tok
+  } 
 
 }
 import UAlt18F._
 
 object UAlt18 extends App {
+
+    val conn = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\""")
+
+    val s = getSpotify(conn)
   
-  val conn = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\""")
-  val conn2 = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\Res\""")
-    
-  val address = """http://theunofficialalt18countdownplaylists.com/"""
-  val res = getUALT18Cal(address,conn)
- 
- val alt18add = res.flatMap( resAdd => getUALT18(resAdd,conn).flatten )
- 
- val results = alt18add.collect( {
-   case x  : String if(x.contains("results-")) => getUALT18Table(x,conn2) 
- } )
- 
- val fResults = results.flatten
- 
- val ats = fResults.map ( x=> { 
-   val at = x.split("-")
-   val artist = at(0)
-   val title = if(at.size > 1) { at(1) } else { "" } 
-   (artist, title) 
- })
- 
- ats.foreach(println)
- 
- conn.dispose
- conn2.dispose
+//  val conn2 = new HTTPWrapper("""C:\Users\Karl\Documents\UALT18\Res\""")
+//    
+//  val address = """http://theunofficialalt18countdownplaylists.com/"""
+//  val res = getUALT18Cal(address,conn)
+// 
+// val alt18add = res.flatMap( resAdd => getUALT18(resAdd,conn).flatten )
+// 
+// val results = alt18add.collect( {
+//   case x  : String if(x.contains("results-")) => getUALT18Table(x,conn2) 
+// } )
+// 
+// val fResults = results.flatten
+// 
+// val ats = fResults.map ( x=> { 
+//   val at = x.split("-")
+//   val artist = at(0)
+//   val title = if(at.size > 1) { at(1) } else { "" } 
+//   (artist, title) 
+// })
+// 
+// ats.foreach(println)
+// 
+// conn.dispose
+// conn2.dispose
 
 } // end app
